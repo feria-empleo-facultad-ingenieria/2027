@@ -28,17 +28,17 @@ empresas_subtitulo_pagina: Lunes 12 y Martes 13 de junio de 2027 horario feria 1
 
 horarios_titulo_pagina: Horarios de presentaciones, conferencias y eventos programados en la feria.
 horarios_subtitulo_pagina: Vestibulo del Auditorio "Javier Barros Sierra", explanada y pasillos del edificio A de la Facultad de Ingeniería.
-horarios_titulo: Horarios de Presentaciones
-horarios_noticia01: La Feria del Empleo de la Facultad de Ingeniería estará abierta al público los días 28 y 29 de abril de 10:00 a 16:00 horas. 
-horarios_noticia02: Entrada Libre
-horarios_texto_boton: Horarios
+horarios_titulo: General
+horarios_noticia01: La Feria del Empleo de la Facultad de Ingeniería estará abierta al público los días 28 y 29 de abrilß
+horarios_noticia02: "&nbsp;"
+horarios_texto_boton: Ingresa
 
 stands_titulo_pagina: Puedes acercarte a preguntar sobre cualquier tema que interese conocer sobre nuestros invitados.
 stands_subtitulo_pagina: Explanada y pasillos del edificio A de la Facultad de Ingeniería.
 stands_tooltip: Ubicación de los Stands en la Facultad
-stands_titulo: Stands de Expositores
-stands_noticia01: Conoce la ubicación de los Stands de Nuestros invitados en la Facultad.
-stands_noticia02: Encuentra la empresa a la que te interesa conocer
+stands_titulo: Información Administrativa
+stands_noticia01: Sobre asuntos administrativos referenete a las agrupaciones podemos apoyarte.
+stands_noticia02: "&nbsp;"
 stands_texto_boton: Expositores
 stands_lugares: Lugares Asignados a las nuestros Expositores
               
@@ -49,9 +49,9 @@ noticia03: ...
 
 platicas_titulo_pagina: En la feria habrá interesantes conferencias donde nos hablarán de diferentes temas del mercado laboral actuál.
 platicas_subtitulo_pagina: Auditorio "Javier Barros Sierra"
-platicas_titulo: Pláticas y Reclutamientos
-platicas_noticia01: Durante la feria contaremos con interesantes pláticas y reclutamientos.
-platicas_noticia02: Próximamente publicaremos información de ellas.
+platicas_titulo: Contáctanos
+platicas_noticia01: Acercate sobre dudas o información nosotros te ayudamos.
+platicas_noticia02: "&nbsp;"
 platicas_texto_boton: Pláticas
 
 
@@ -74,7 +74,7 @@ main-open-free: Entrada Libre
 main-openning: ""
 main-recruiments-news: Próximamente publicaremos información de ellas.
 main-recruiments: Durante la feria contaremos con interesantes pláticas y reclutamientos
-main-will-be-opened: La Feria del Empleo de la Facultad de Ingeniería estará abierta al público los días 28 y 29 de abril de 10:00 a 16:00 horas.
+main-will-be-opened: Información General
 chats-SchoolName: Facultad de Ingeniería
 main-companies-that-join-us: Empresas que nos acompañan
 main-info-soon: Pronto información adicional ...
