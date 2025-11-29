@@ -47,7 +47,18 @@ h6 {
 # Sections
 --------------------------------------------------------------*/
 section {
-  padding: 60px 0;
+  /* padding: 60px 0; */
+  padding: 20px 0 0 0;
+  overflow: hidden;
+}
+
+.first-section{
+  padding: 60px 0 0 0;
+  overflow: hidden;
+}
+
+.last-section{
+  padding: 0px 0;
   overflow: hidden;
 }
 

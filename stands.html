@@ -2,50 +2,47 @@
 layout: default_newtemplate
 ---
 <section>
-  <div id="page" class="clearfix">
-    <div class="main-content container">
-      {% include index/about.html %}
+  <div class="main-content container">
+    {% include index/about.html %}
 
-      {% assign title01 = site.data.generalinfo.stands_titulo_pagina  %}
-      {% assign title02 = site.data.generalinfo.stands_subtitulo_pagina %}
-      {% assign title_icono = "icon-map-marker" %}
-      {% assign title_tooltip = site.data.generalinfo.stands_tooltip_pagina %}
+    {% assign title01 = site.data.generalinfo.stands_titulo_pagina  %}
+    {% assign title02 = site.data.generalinfo.stands_subtitulo_pagina %}
+    {% assign title_icono = "icon-map-marker" %}
+    {% assign title_tooltip = site.data.generalinfo.stands_tooltip_pagina %}
 
-      {% assign link01_ref ="empresas.html" %}
-      {% assign link01_icono = "icon-building" %}
-      {% assign link01_nombre = "Empresas" %}
+    {% assign link01_ref ="empresas.html" %}
+    {% assign link01_icono = "icon-building" %}
+    {% assign link01_nombre = "Empresas" %}
 
-      {% assign link02_ref ="horarios.html" %}
-      {% assign link02_icono = "icon-clock" %}
-      {% assign link02_nombre = "Horarios" %}
+    {% assign link02_ref ="horarios.html" %}
+    {% assign link02_icono = "icon-clock" %}
+    {% assign link02_nombre = "Horarios" %}
 
-      {% assign link03_ref ="platicas.html" %}
-      {% assign link03_icono = "icon-users2" %}
-      {% assign link03_nombre = "pláticas" %}
+    {% assign link03_ref ="platicas.html" %}
+    {% assign link03_icono = "icon-users2" %}
+    {% assign link03_nombre = "pláticas" %}
 
-      {% assign link04_ref ="index.html" %}
-      {% assign link04_icono = "icon-home" %}
-      {% assign link04_nombre = "Inicio" %}
-    
-      <div class="card mb-3">
-        <div class="card-body">
-          <div class="container">
-            <h5 class="fs-0 mb-0">{{ site.data.generalinfo.stands_lugares }}</h5>
-            <div class="row">
-              {% for company in site.data.companies.companies %}
-              <div class="col-lg-6 col-md-12">
-                <h3>
-                  <img class="figure-img img-fluid rounded" src="{{ company.logourl}}" style="height: 50px;" alt="{{ company.name }}">
-                  <span class="badge dark">
-                    <a href="#" onclick="javascript:return false;" title="{{ company.name }}" data-bs-toggle="popover" data-bs-trigger="focus" data-bs-content="{{ company.abstract }}">{{ company.name  }}</a>
-                  </span>
-                </h3>
-              </div>
-              {% endfor %}
+    {% assign link04_ref ="index.html" %}
+    {% assign link04_icono = "icon-home" %}
+    {% assign link04_nombre = "Inicio" %}
+      
+    <h5 class="fs-0 mb-0">{{ site.data.generalinfo.stands_lugares }}</h5>
+    <div class="row aos-init aos-animate ">
+      {% for company in site.data.companies.companies %}
+      <div class="col-lg-3 col-md-12" data-aos="fade-bottom">
+        <div class="card mb-2">
+          <div class="row">
+            <div class="col-12 card-header"><h5>Lugar Ubicación: {{ company.standId }}</h5></div>
+          </div>
+          <div class="row">
+            <div class="col-6 text-center"><img class="figure-img img-fluid rounded" src="{{ company.logourl}}" style="height: 20px;" alt="{{ company.name }}"></div>
+            <div class="col-6 text-left">
+              <a href="#" onclick="javascript:return false;" title="{{ company.name }}" data-bs-toggle="popover" data-bs-trigger="focus" data-bs-content="{{ company.abstract }}">{{ company.name  }}</a>
             </div>
           </div>
         </div>
       </div>
+      {% endfor %}
     </div>
   </div>
 </section>

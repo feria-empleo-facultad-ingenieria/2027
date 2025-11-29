@@ -27,15 +27,110 @@ layout: default_newtemplate
       {% assign link04_icono = "icon-map-marker" %}
       {% assign link04_nombre = "Stands" %}
 
-      <div class="row no-gutters">
+      <div class="row no-gutters aos-init aos-animate ">
         <div class="col-xl-8 pr-xl-2">
+
+
+
+          {% for fecha in site.data.platicas.fechas  %}
+          <div class="container">
+            <div class="row aos-init aos-animate ">
+              <div class="col-12" data-aos="fade-left">
+                <h4 class="mt-0 mb-3 text-dark op-8 font-weight-bold">
+                  {{ fecha.dianombre }}, {{ fecha.dia }} de {{ fecha.mes }} <br /> {{fecha.lugar}}
+                </h4>
+                
+                <ul class="list-timeline list-timeline-primary">
+                  {% assign filtered = site.data.platicas.platicas | where: "dia", fecha.dia  %}
+                  {% assign filtered = filtered | where: "place_index", fecha.place_index  %}
+                  {% for platica in filtered %}
+                  <li class="list-timeline-item p-0 pb-3 pb-lg-12 d-flex flex-wrap flex-column">
+                    <div class="card mb-3" data-aos="fade-right">
+
+                      <div class="card-header bg-light">
+                        <div class="row">
+                          <div class="col-3">
+                            <img src="{{ platica.conferencista_foto }}" style="height:{{platica.image_height}}" alt="">
+                          </div>
+                          <div class="col-9">
+                            <h4 class="card-title">{{ platica.conferencia_nombre }}</h4>
+                            <h6 class="card-subtitle mb-2 text-muted">
+                              <p>{{ platica.conferencia_fecha }} </p>
+                            </h6>
+                          </div>
+                        </div>
+                      </div>
+                    
+                      <div class="card-body overflow-hidden">
+                        <div class="row justify-content-between">
+                          <div class="row">
+                            <div class="col-12 ml-4">
+                              <table>
+                                <tr><td>Ponente:    </td><td><strong>&nbsp;{{ platica.conferencista_nombre }}</strong></td></tr>
+                                <tr><td>Recinto:    </td><td><strong>&nbsp;{{ platica.conferencia_lugar }}</strong></td></tr>
+                                <tr><td>Horario:    </td><td><strong>&nbsp;{{ platica.conferencia_hora }} • <i class="icon-world"></i></strong></td></tr>
+                              </table>
+                            </div>
+                          </div>
+                        </div>
+                      </div>
+          
+                      <div class="card-footer bg-slider">
+                        <div class="row">
+                          <div class="col-md-8 col-sm-12">
+                            <p>{{ platica.conferencia_abstract }}</p>
+                          </div>
+                          <div class="col-md-4 col-sm-12">
+                            {{ platica.facebookEntry }}
+                            {% if platica.image_flyer != '' %}
+                            <!-- <a href="#" 
+                                onclick="javascript:return false;" 
+                                title="{{ platica.conferencia_nombre }}" 
+                                data-bs-toggle="flyer_click"
+                                data-img="{{ platica.image_flyer }}">
+                                más info...
+                            </a> -->
+                            <button type="button" class="btn btn-primary" data-bs-toggle="modal" data-bs-target="#{{platica.conferencia_mId}}">
+                              más info...
+                            </button>
+          
+                            <div class="modal fade" id="{{platica.conferencia_mId}}" tabindex="-1" aria-labelledby="exampleModalLabel" aria-hidden="true">
+                              <div class="modal-dialog">
+                                <div class="modal-content">
+                                  <div class="modal-header">
+                                    <h5 class="modal-title" id="exampleModalLabel">{{ platica.conferencista_nombre }}</h5>
+                                    <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
+                                  </div>
+                                  <div class="modal-body">
+                                    <img src="{{ platica.image_flyer }}" />
+                                  </div>
+                                </div>
+                              </div>
+                            </div>
+                            {% endif %}
+                        </div>
+                      </div>
+                    </div>
+                  </li>
+                  {% endfor %}
+                </ul> 
+                <br /><br />
+              </div>
+            </div>
+          </div>
+          {% endfor %}
+
+
+
+
           {% for platica in site.data.platicas.platicas %}
-          <div class="card mb-3">
+           <!-- 
+          <div class="card mb-3" data-aos="fade-right">
 
             <div class="card-header bg-light">
               <div class="row">
                 <div class="col-3">
-                  <img src="{{ platica.conferencista_foto }}" width="{{platica.image_width}}}" alt="">
+                  <img src="{{ platica.conferencista_foto }}" style="height:{{platica.image_height}}" alt="">
                 </div>
                 <div class="col-9">
                   <h4 class="card-title">{{ platica.conferencia_nombre }}</h4>
@@ -71,41 +166,50 @@ layout: default_newtemplate
                   <a href="#" 
                       onclick="javascript:return false;" 
                       title="{{ platica.conferencia_nombre }}" 
-                      data-toggle="popover" 
-                      data-trigger="focus" 
+                      data-bs-toggle="flyer_click"
                       data-img="{{ platica.image_flyer }}">
                       más info...
-                  </a>
+                  </a> 
+                  <button type="button" class="btn btn-primary" data-bs-toggle="modal" data-bs-target="#{{platica.conferencia_mId}}">
+                    más info...
+                  </button>
+
+                  <div class="modal fade" id="{{platica.conferencia_mId}}" tabindex="-1" aria-labelledby="exampleModalLabel" aria-hidden="true">
+                    <div class="modal-dialog">
+                      <div class="modal-content">
+                        <div class="modal-header">
+                          <h5 class="modal-title" id="exampleModalLabel">{{ platica.conferencista_nombre }}</h5>
+                          <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
+                        </div>
+                        <div class="modal-body">
+                          <img src="{{ platica.image_flyer }}" />
+                        </div>
+                      </div>
+                    </div>
+                  </div>
                   {% endif %}
               </div>
             </div>
           </div>
-  <!-- 
+ 
             <div class="card-footer bg-light pt-0">
               <div class="border-200 fs--1 py-3">
                   {{ platica.conferencia_fecha }} • {{ platica.conferencia_empresa }}
               </div>
-            </div> -->
-        </div>
+            </div> 
+        </div>-->
           {% endfor %}
         </div>
         {% include izquierda.html %}
       </div>
     </div>
   </div>
-</section>
-<script>
-  $(document).ready(function(){
-    //$('[data-toggle="popover"]').popover();   
-    $('[data-toggle="popover"]').popover({
-      html: true,
-      content: function(){return '<img src="'+$(this).data('img') + '" />';}
-    });
-  });
-</script>
 
-<style>
-.popover {
-  max-width: 600px;
-}
-</style>
+
+<!-- Button trigger modal -->
+
+
+<!-- Modal -->
+
+
+</section>

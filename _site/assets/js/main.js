@@ -164,7 +164,7 @@
     speed: 400,
     loop: true,
     autoplay: {
-      delay: 5000,
+      delay: 500,
       disableOnInteraction: false
     },
     slidesPerView: 'auto',
@@ -175,20 +175,20 @@
     },
     breakpoints: {
       320: {
-        slidesPerView: 2,
-        spaceBetween: 40
+        slidesPerView: 4,
+        spaceBetween: 20
       },
       480: {
-        slidesPerView: 3,
-        spaceBetween: 60
+        slidesPerView: 4,
+        spaceBetween: 20
       },
       640: {
-        slidesPerView: 4,
-        spaceBetween: 80
+        slidesPerView: 6,
+        spaceBetween: 20
       },
       992: {
-        slidesPerView: 6,
-        spaceBetween: 120
+        slidesPerView: 8,
+        spaceBetween: 20
       }
     }
   });
@@ -330,5 +330,11 @@
   var popoverList = popoverTriggerList.map(function (popoverTriggerEl) {
     return new bootstrap.Popover(popoverTriggerEl)
   })
+
+  var tooltipTriggerList = [].slice.call(document.querySelectorAll('[data-bs-toggle="tooltip"]'))
+  var tooltipList = tooltipTriggerList.map(function (tooltipTriggerEl) {
+    return new bootstrap.Tooltip(tooltipTriggerEl)
+  })
+
 
 })();

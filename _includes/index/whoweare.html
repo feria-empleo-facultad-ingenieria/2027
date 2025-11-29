@@ -18,7 +18,7 @@
             {% assign total = site.data.feria.photos | size %}
             {% for pic in site.data.feria.photos %}
             <div class="swiper-slide" role="group" aria-label="{{counter}} / {{total}}" style="width: 400px !important;" data-swiper-slide-index="{{ counter++ }}">
-              <img src="{{ pic.url }}" style="width: 400px;" class="img-fluid" alt="">
+              <img src="{{ pic.url }}" style="width: 400px;" class="img-fluid right" alt="">
             </div>
             {% endfor %}
           </div>

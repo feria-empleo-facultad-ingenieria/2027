@@ -30,58 +30,40 @@ layout: default_newtemplate
     
     <div class="row no-gutters">
       <div class="col-xl-8 pr-xl-2">
+
         <div class="card mb-3 mb-lg-0">
           <div class="card-header bg-light">
             <h5 class="mb-0">Programa de Actividades</h5>
           </div>
-          <div class="row">
-            <div class="col-md-6 col-sm-12">
-                <div class="card-body fs--1">
-                    {% for actividad in site.data.actividades.actividades %}
-                    <div class="media btn-reveal-trigger">
-                      <div class="calendar">
-                        <span class="calendar-month">{{ actividad.mes }}</span>
-                        <span class="calendar-day">{{ actividad.dia }}</span>
-                      </div>
-                      <div class="media-body position-relative pl-3">
-                        <h6 class="fs-0 mb-0"><a href="../pages/event-detail.html">{{ actividad.nombre }}</a></h6>
-                        <p class="mb-1">{{ actividad.abstract }}</p>
-                        <p class="text-1000 mb-0">Hora: {{ actividad.hora }}</p>
-                        {% if actividad.lugar != 'a' %}
-                        <p class="text-1000 mb-0">Lugar: {{ actividad.lugar }}</p>
-                        {% endif%}
-                        Recinto: {{ actividad.recinto }}
-                        <hr class="border-dashed border-bottom-0">
-                      </div>
-                    </div>
-                    {% endfor %}
-                </div>
-            </div>
-            <div class="col-md-6 col-sm-12">
-              <div class="card-body fs--1">
-                  {% for actividad in site.data.actividades.actividades2 %}
-                  <div class="media btn-reveal-trigger">
-                    <div class="calendar">
-                      <span class="calendar-month">{{ actividad.mes }}</span>
-                      <span class="calendar-day">{{ actividad.dia }}</span>
-                    </div>
-                    <div class="media-body position-relative pl-3">
-                      <h6 class="fs-0 mb-0"><a href="../pages/event-detail.html">{{ actividad.nombre }}</a></h6>
+          {% for fecha in site.data.actividades.fechas  %}
+          <div class="container">
+            <div class="row aos-init aos-animate ">
+              <div class="col-12" data-aos="fade-left">
+                <h4 class="mt-0 mb-3 text-dark op-8 font-weight-bold">
+                  {{ fecha.dianombre }}, {{ fecha.dia }} de {{ fecha.mes }} <br /> {{fecha.lugar}}
+                </h4>
+                
+                <ul class="list-timeline list-timeline-primary">
+                  {% assign filtered = site.data.actividades.actividades | where: "dia", fecha.dia  %}
+                  {% assign filtered = filtered | where: "place_index", fecha.place_index  %}
+                  {% for actividad in filtered %}
+                  <li class="list-timeline-item p-0 pb-3 pb-lg-12 d-flex flex-wrap flex-column">
+                      <p class="my-0 text-dark flex-fw text-sm"><span class="text-inverse op-8"><strong>{{ actividad.hora }} - {{ actividad.shortName }}</strong></span> </p>
                       <p class="mb-1">{{ actividad.abstract }}</p>
-                      <p class="text-1000 mb-0">Hora: {{ actividad.hora }}</p>
                       {% if actividad.lugar != 'a' %}
                       <p class="text-1000 mb-0">Lugar: {{ actividad.lugar }}</p>
                       {% endif%}
                       Recinto: {{ actividad.recinto }}
-                      <hr class="border-dashed border-bottom-0">
-                    </div>
-                  </div>
+                  </li>
                   {% endfor %}
+                </ul>
+                <br />
               </div>
             </div>
           </div>
+          {% endfor %}
 
-        </div>
+        </div> 
       </div>
       {% include izquierda.html %}
     </div>

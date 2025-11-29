@@ -1,85 +1,175 @@
+fechas:
+- mes: Abril
+  dia: 28
+  dianombre: Lunes
+  year: 2027
+  lugar: Auditorio "Javier Barros Sierra"
+  place_index: 1
+
+- mes: Abril
+  dia: 28
+  dianombre: Lunes
+  year: 2027
+  lugar: Aula Magna
+  place_index: 2
+
+- mes: Abril
+  dia: 29
+  dianombre: Martes
+  year: 2027
+  lugar: Auditorio "Javier Barros Sierra"
+  place_index: 1
+
+- mes: Abril
+  dia: 29
+  dianombre: Martes
+  year: 2027
+  lugar: Aula Magna
+  place_index: 2
+
 actividades:
 - mes: ABRIL
   dia: 28
-  nombre: Inauguración de la Feria del Empleo 2025
+  nombre: Inauguración de la Agrupaciones Estudiantiles
+  shortName: "Inauguración"
   abstract: Con la presencia del Director de la Facultad
   hora: 10:00 - 10:15 
   lugar: Edificio principal de la Facultad de Ingeniería
   recinto: Auditorio "Javier Barros Sierra"
-# - mes: ABRIL
-#   dia: 28
-#   nombre: FORD
-#   hora: 10:00 – 12:00 
-#   lugar: Auditorio
-#   recinto: Auditorio "Javier Barros Sierra"
-# - mes: ABRIL
-#   dia: 28
-#   nombre: HUAWEI
-#   hora: 12:00 – 14:00 
-#   lugar: Auditorio
-#   recinto: Auditorio "Javier Barros Sierra"
-# - mes: ABRIL
-#   dia: 28
-#   nombre: KRONES
-#   hora: 14:00 – 15:00 
-#   lugar: Auditorio
-#   recinto: Auditorio "Javier Barros Sierra"
+  place_index: 1
 
-# - mes: ABRIL
-#   dia: 28
-#   nombre: Oportunidades laborales en quebec
-#   hora: 14:00 – 16:00 
-#   lugar: Aula Magna
-#   recinto: Aula Magna
+- mes: ABRIL
+  dia: 28
+  nombre: FORD
+  shortName: "Conferencia Ford"
+  hora: 10:00 – 12:00 
+  lugar: Auditorio
+  recinto: Auditorio "Javier Barros Sierra"
+  place_index: 1
 
-# - mes: ABRIL
-#   dia: 28
-#   nombre: FARO PROTEC
-#   hora: 15:00 – 16:00 
-#   lugar: Auditorio
-#   recinto: Auditorio "Javier Barros Sierra"
+- mes: ABRIL
+  dia: 28
+  nombre: HUAWEI
+  shortName: "Conferencia Huawei"
+  hora: 12:00 – 14:00 
+  lugar: Auditorio
+  recinto: Auditorio "Javier Barros Sierra"
+  place_index: 1
 
-# - mes: ABRIL
-#   dia: 28
-#   nombre: COMPUTRABAJO
-#   hora: 16:00 – 18:00 
-#   lugar: Auditorio
-#   recinto: Auditorio "Javier Barros Sierra"
+- mes: ABRIL
+  dia: 28
+  nombre: Gerdau Corsa
+  shortName: "Reclutamiento de Gerdau Corsa"
+  hora: 12:00 – 14:00 
+  lugar: Aula Magna
+  recinto: Aula Magna
+  place_index: 2
 
-# - mes: ABRIL
-#   dia: 28
-#   nombre: Atracción de talento de Bosch
-#   hora: 18:00 – 20:00 
-#   lugar: Auditorio
-#   recinto: Auditorio "Javier Barros Sierra"
+- mes: ABRIL
+  dia: 28
+  nombre: Capital One
+  shortName: "Conferencia Capital One"
+  hora: 14:00 – 16:00 
+  lugar: Auditorio
+  recinto: Auditorio "Javier Barros Sierra"
+  place_index: 1
 
- 
+- mes: ABRIL
+  dia: 28
+  nombre: Knight
+  shortName: "Reclutamiento Knight Piesold"
+  hora: 14:00 – 16:00 
+  lugar: Aula Magna
+  recinto: Aula Magna
+  place_index: 2
+
+- mes: ABRIL
+  dia: 28
+  nombre: Audi
+  shortName: "Conferencia Audi"
+  hora: 16:00 – 18:00 
+  lugar: Auditorio
+  recinto: Auditorio "Javier Barros Sierra"
+  place_index: 1
+
+- mes: ABRIL
+  dia: 28
+  nombre: Karla Berman
+  shortName: "Karla Berman"
+  hora: 18:30 – 20:00 
+  lugar: Auditorio
+  recinto: Auditorio "Javier Barros Sierra"
+  place_index: 1
+
+- mes: ABRIL
+  dia: 28
+  nombre: Amazon
+  shortName: "Conferencia Amazon"
+  hora: 16:00 – 18:00 
+  lugar: Aula Magna
+  recinto: Aula Magna
+  place_index: 2
+
+- mes: ABRIL
+  dia: 29
+  nombre: "ICA FLUOR"
+  shortName: "Conferencia Ica Fluor"
+  hora: 10:00 – 12:00 
+  lugar: Auditorio
+  recinto: Auditorio "Javier Barros Sierra"
+  place_index: 1
+
+- mes: ABRIL
+  dia: 29
+  nombre: Grupo México
+  shortName: "Conferencia Grupo México"
+  hora: 12:00 – 14:00 
+  lugar: Auditorio
+  recinto: Auditorio "Javier Barros Sierra"
+  place_index: 1
+
+- mes: ABRIL
+  dia: 29
+  nombre: Mota-Engil
+  shortName: "Reclutamiento Mota-Engil"
+  hora: 12:00 – 14:00 
+  lugar: Aula Magna
+  recinto: Aula Magna
+  place_index: 2
 
 
-# - mes: ABRIL
-#   dia: 29
-#   nombre: ICA FLUOR
-#   hora: 10:00 – 12:00 
-#   lugar: Auditorio
-#   recinto: Auditorio "Javier Barros Sierra"
+- mes: ABRIL
+  dia: 29
+  nombre: EY
+  shortName: "Conferencia Ey"
+  hora: 14:00 – 16:00 
+  lugar: Auditorio
+  recinto: Auditorio "Javier Barros Sierra"
+  place_index: 1
 
-# - mes: ABRIL
-#   dia: 29
-#   nombre: CIMESA
-#   hora: 12:00 – 14:00 
-#   lugar: Auditorio
-#   recinto: Auditorio "Javier Barros Sierra"
+- mes: ABRIL
+  dia: 29
+  nombre: Mota-Engil
+  shortName: "Reclutamiento Micron"
+  hora: 14:00 – 16:00 
+  lugar: Aula Magna
+  recinto: Aula Magna
+  place_index: 2
 
-# - mes: ABRIL
-#   dia: 29
-#   nombre: ZTE
-#   hora: 14:00 – 16:00 
-#   lugar: Auditorio
-#   recinto: Auditorio "Javier Barros Sierra"
+- mes: ABRIL
+  dia: 29
+  nombre: ZTE
+  shortName: "Conferencia ZTE"
+  hora: 16:00 – 18:00 
+  lugar: Auditorio
+  recinto: Auditorio "Javier Barros Sierra"
+  place_index: 1
 
-# - mes: ABRIL
-#   dia: 29
-#   nombre: AUDI
-#   hora: 16:00 – 18:00 
-#   lugar: Auditorio
-#   recinto: Auditorio "Javier Barros Sierra"
+- mes: ABRIL
+  dia: 29
+  nombre: Amazon
+  shortName: "Conferencia Amazon"
+  hora: 16:00 – 18:00 
+  lugar: Aula Magna
+  recinto: Aula Magna
+  place_index: 2

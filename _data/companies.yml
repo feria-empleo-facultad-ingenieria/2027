@@ -1,16 +1,18 @@
 companies:
-# - siteurl: https://www.faroprotec.com/acadefense
-#   logourl: images/companies/acadefense.jpeg
-#   name: Acadefense
-#   carreras: TODAS LAS CARRERAS
-#   teaser: "Cuando las empresas buscan talento se fijan cada vez más en las competencias demostrables que son una ventaja competitiva al momento de buscar trabajo."
-#   abstract: "Cuando las empresas buscan talento se fijan cada vez más en las competencias demostrables que son una ventaja competitiva al momento de buscar trabajo. Cada vez más en todas las áreas, al revisar un CV en Redes Sociales y Bolsas de Trabajo como Linkedin, OCC, Indeed, Computrabajo, no es suficiente. Las empresas también buscan capacidades, habilidades y certificaciones que ya hoy constituyen una parte esencial de tu trayectoria."
-#   stand: S/A
-#   height1: 50px
-#   height: 80px
-#   heightStand: 50px
-#   heightStyle: height:60px
-#   column: 1
+- siteurl: https://www.faroprotec.com/acadefense
+  logourl: images/companies/acadefense.svg
+  name: Acadefense
+  logoBanner: 30px
+  logoCard: 30px
+  carreras: TODAS LAS CARRERAS
+  teaser: "Cuando las empresas buscan talento se fijan cada vez más en las competencias demostrables que son una ventaja competitiva al momento de buscar trabajo."
+  abstract: "Cuando las empresas buscan talento se fijan cada vez más en las competencias demostrables que son una ventaja competitiva al momento de buscar trabajo. Cada vez más en todas las áreas, al revisar un CV en Redes Sociales y Bolsas de Trabajo como Linkedin, OCC, Indeed, Computrabajo, no es suficiente. Las empresas también buscan capacidades, habilidades y certificaciones que ya hoy constituyen una parte esencial de tu trayectoria."
+  stand: S/A
+  height1: 50px
+  height: 80px
+  heightStand: 50px
+  heightStyle: height:60px
+  column: 1
 
 # - siteurl: https://empleo.adecco.com.mx/
 #   logourl: https://feria-backend-production.up.railway.app/adecco.jpg
@@ -50,18 +52,38 @@ companies:
 #   heightStyle: height:50px
 #   column: 1
 
-# - siteurl: https://www.audi.com.mx/mx/web/es/audi-en-mexico/carreras.html
-#   logourl: images/companies/audi.png
-#   name: Audi
-#   carreras: TODAS LAS CARRERAS
-#   teaser: Audi offers you a modern work environment with many additional, personalized benefits, training and development options, health programs, as well as a support for your personal life and career. We incentivize young people and experienced professionals alike to 
-#   abstract: Audi offers you a modern work environment with many additional, personalized benefits, training and development options, health programs, as well as a support for your personal life and career. We incentivize young people and experienced professionals alike to contribute with their knowledge and skills in a targeted manner. Whether you are looking to start your professional journey, attend a dual university or take the next career step, Audi is a powerful partner, who gives you the flexibility you need for your personal growth.
-#   stand: S/A
-#   height1: 30px
-#   height: 60px
-#   heightStand: 50px
-#   heightStyle: height:50px
-#   column: 1
+- siteurl: https://www.amazon.jobs/es
+  logourl: images/companies/amazon.svg
+  name: Amazon
+  logoCard: 30px
+  logoBanner: 30px
+  carreras: TODAS LAS CARRERAS
+  teaser: "Lo que une a los empleados de Amazon en todos los equipos y geografías es que todos nos esforzamos por satisfacer a nuestros clientes y hacerles la vida más fácil."
+  abstract: "Lo que une a los empleados de Amazon en todos los equipos y geografías es que todos nos esforzamos por satisfacer a nuestros clientes y hacerles la vida más fácil. El alcance y la escala de nuestra misión nos impulsan a buscar perspectivas diversas, a ser ingeniosos y a sortear la ambigüedad. Inventar y entregar cosas que nunca creímos posibles no es fácil, pero aceptamos este desafío todos los días."
+  stand: S/A
+  height1: 30px
+  height: 60px
+  heightStand: 50px
+  heightStyle: height:50px
+  column: 1
+  standId: ""
+
+
+- siteurl: https://www.audi.com.mx/mx/web/es/audi-en-mexico/carreras.html
+  logourl: images/companies/audi.png
+  name: Audi
+  logoCard: 40px
+  logoBanner: 40px
+  carreras: TODAS LAS CARRERAS
+  teaser: Audi offers you a modern work environment with many additional, personalized benefits, training and development options, health programs, as well as a support for your personal life and career. We incentivize young people and experienced professionals alike to 
+  abstract: Audi offers you a modern work environment with many additional, personalized benefits, training and development options, health programs, as well as a support for your personal life and career. We incentivize young people and experienced professionals alike to contribute with their knowledge and skills in a targeted manner. Whether you are looking to start your professional journey, attend a dual university or take the next career step, Audi is a powerful partner, who gives you the flexibility you need for your personal growth.
+  stand: S/A
+  height1: 30px
+  height: 60px
+  heightStand: 50px
+  heightStyle: height:50px
+  column: 1
+  standId: ""
 
 # - siteurl: https://axity.com/trabaja-con-nosotros/
 #   logourl: images/companies/axity.png
@@ -87,18 +109,20 @@ companies:
 #   height: 80px
 #   column: 1
 
-# - siteurl: https://www.bosch.com.mx/carreras/
-#   logourl: https://feria-backend-production.up.railway.app/bosh.jpg
-#   name: Bosh
-#   carreras: TODAS LAS CARRERAS
-#   teaser: "En Bosch, te cuidamos. Nos importas tú, nuestro negocio y nuestro entorno.  Nuestra promesa para nuestros asociados es sólida: crecemos juntos, disfrutamos nuestro trabajo y nos inspiramos el uno al otro. Únete y siente la diferencia."
-#   abstract: "En Bosch, te cuidamos. Nos importas tú, nuestro negocio y nuestro entorno.  Nuestra promesa para nuestros asociados es sólida: crecemos juntos, disfrutamos nuestro trabajo y nos inspiramos el uno al otro. Únete y siente la diferencia."
-#   stand: S/A
-#   height1: 18px
-#   height: 30px
-#   heightStand: 25px
-#   heightStyle: height:35px
-#   column: 1
+- siteurl: https://www.bosch.com.mx/carreras/
+  logourl: images/companies/bosch.svg
+  name: Bosh
+  logoCard: 30px
+  logoBanner: 30px
+  carreras: TODAS LAS CARRERAS
+  teaser: "En Bosch, te cuidamos. Nos importas tú, nuestro negocio y nuestro entorno.  Nuestra promesa para nuestros asociados es sólida: crecemos juntos, disfrutamos nuestro trabajo y nos inspiramos el uno al otro. Únete y siente la diferencia."
+  abstract: "En Bosch, te cuidamos. Nos importas tú, nuestro negocio y nuestro entorno.  Nuestra promesa para nuestros asociados es sólida: crecemos juntos, disfrutamos nuestro trabajo y nos inspiramos el uno al otro. Únete y siente la diferencia."
+  stand: S/A
+  height1: 18px
+  height: 30px
+  heightStand: 25px
+  heightStyle: height:35px
+  column: 1
 
 # - siteurl: https://bosonit.com/
 #   logourl: https://feria-backend-production.up.railway.app/Bosonit.svg
@@ -126,24 +150,42 @@ companies:
 #   heightStyle: height:50px
 #   column: 1
 
-# - siteurl: "https://www.caterpillar.com/en/careers.html"
-#   logourl: https://s7d2.scene7.com/is/image/Caterpillar/CM20220222-5c3c2-280a8?fmt=png-alpha
-#   name: "Caterpillar"
-#   carreras: "Todas las carreras"
-#   teaser: "At Caterpillar, you build what matters—whether it’s the career you want, crucial work skills, strong relationships or new digital technologies."
-#   abstract: "At Caterpillar, you build what matters—whether it’s the career you want, crucial work skills, strong relationships or new digital technologies. There are big jobs to be done worldwide—building critical infrastructure, bolstering local economies, meeting the demand for energy—and that work is powered by our people."
-#   stand: S/A
-#   height1: 20px
-#   height: 30px
-#   heightStand: 25px
-#   heightStyle: height:30px
-#   column: 1
+- siteurl: https://www.capitalone.com/tech/mexico/
+  logourl: images/companies/CapitalOne.png
+  name: Capital One
+  logoBanner: 30px
+  logoCard: 30px
+  carreras: TODAS LAS CARRERAS
+  teaser: "The financial industry is primed for innovation—and we’re changing everything. We’re all in on artificial intelligence, machine learning and data analytics because with them we can revolutionize the financial industry and ultimately, change banking for good."
+  abstract: "The financial industry is primed for innovation—and we’re changing everything. We’re all in on artificial intelligence, machine learning and data analytics because with them we can revolutionize the financial industry and ultimately, change banking for good."   
+  stand: S/A
+  height1: 20px
+  height: 80px
+  column: 1
+  standId: ""
+
+- siteurl: "https://www.caterpillar.com/en/careers.html"
+  logourl: images/companies/caterpillar.png
+  logoCard: 20px
+  logoBanner: 20px
+  name: "Caterpillar"
+  carreras: "Todas las carreras"
+  teaser: "At Caterpillar, you build what matters—whether it’s the career you want, crucial work skills, strong relationships or new digital technologies."
+  abstract: "At Caterpillar, you build what matters—whether it’s the career you want, crucial work skills, strong relationships or new digital technologies. There are big jobs to be done worldwide—building critical infrastructure, bolstering local economies, meeting the demand for energy—and that work is powered by our people."
+  stand: S/A
+  height1: 20px
+  height: 30px
+  heightStand: 25px
+  heightStyle: height:30px
+  column: 1
 
 - siteurl: http://www.ciadetalentos.com.mx/
-  logourl: images/companies/cia2.jpg
+  logourl: images/companies/ciared.png
+  logoCard: 40px
+  logoBanner: 40px
   name: Cia de Talentos
   carreras: TODAS LAS CARRERAS
-  teaser: Conectamos a los mejores talentos con las mejores oportunidades
+  teaser: "Somos el Grupo Cia de Talentos, que hace más de 30 años conecta los mejores talentos a las más importantes oportunidades de toda América Latina. A lo largo de nuestra historia, atendimos a más de 2.000 empresas y facilitamos la contratación de 100.000 talentos."
   abstract: Conectamos a los mejores talentos con las mejores oportunidades, y desarrollamos tanto empresas como personas para que alcancen, todos los días, la mejor versión de sí mismos. El Grupo Cia de Talentos es mucho más que una consultora de selección y desarrollo somos una empresa de educación para la carrera. Creemos en el potencial de todos en cada uno siempre existe un talento capaz de transformar y movilizar a las empresas y a la sociedad. Para eso trabajamos.
   stand: S/A
   height1: 40px
@@ -152,18 +194,20 @@ companies:
   heightStyle: height:80px
   column: 1
 
-# - siteurl: https://www.cisco.com/
-#   logourl: images/companies/cisco.png
-#   name: Cisco
-#   carreras: TODAS LAS CARRERAS
-#   teaser: No matter where you're at in life, Cisco has a career opportunity waiting for you! Are you the talent we're looking for?
-#   abstract: Emerging Talent's goal is to help kickstart your career, from expanding your skillset to building your network and gaining valuable experience to propel your career. Our programs include roles for interns, apprentices, recent graduates, and those educated through alternative paths such as boot camps or community college.
-#   stand: S/A
-#   height1: 40px
-#   height: 60px
-#   heightStand: 50px
-#   heightStyle: height:50px
-#   column: 1
+- siteurl: https://www.cisco.com/
+  logourl: images/companies/cisco.png
+  name: Cisco
+  logoCard: 40px
+  logoBanner: 40px
+  carreras: TODAS LAS CARRERAS
+  teaser: No matter where you're at in life, Cisco has a career opportunity waiting for you! Are you the talent we're looking for?
+  abstract: Emerging Talent's goal is to help kickstart your career, from expanding your skillset to building your network and gaining valuable experience to propel your career. Our programs include roles for interns, apprentices, recent graduates, and those educated through alternative paths such as boot camps or community college.
+  stand: S/A
+  height1: 40px
+  height: 60px
+  heightStand: 50px
+  heightStyle: height:50px
+  column: 1
 
 # - siteurl: https://www.conceptomovil.com/
 #   logourl: https://feria-backend-production.up.railway.app/logo_CM_1_1.png
@@ -178,18 +222,36 @@ companies:
 #   heightStyle: height:50px
 #   column: 1
 
-# - siteurl: https://mx.computrabajo.com/
-#   logourl: images/companies/computra2.png
-#   name: Computrabajo
-#   carreras: TODAS LAS CARRERAS
-#   teaser: Encuentra el empleo que encaja contigo, más de 123,873 ofertas
-#   abstract: Publica tus ofertas en el portal de empleo con mayor audiencia en Latinoamérica.
-#   stand: S/A
-#   height1: 25px
-#   height: 50px
-#   heightStand: 40px
-#   heightStyle: height:50px
-#   column: 1
+- siteurl: https://mx.computrabajo.com/
+  logourl: images/companies/computra2.png
+  name: Computrabajo
+  logoBanner: 30px
+  logoCard: 30px
+  carreras: TODAS LAS CARRERAS
+  teaser: "Si buscas trabajo ¡Computrabajo es tu mejor aliado! Miles de ofertas de empleo están esperándote, Encontrar empleo. Te ayudamos a encontrar un empleo mejor. Haz que tu currículum sea visible para miles de empresas en nuestra bolsa de trabajo"
+  abstract: Publica tus ofertas en el portal de empleo con mayor audiencia en Latinoamérica.
+  stand: S/A
+  height1: 25px
+  height: 50px
+  heightStand: 40px
+  heightStyle: height:50px
+  column: 1
+
+- siteurl: https://www.azvi.es/
+  logourl: images/companies/azvi.png
+  name: Construcciones Urales
+  logoBanner: 40px
+  logoCard: 40px
+  carreras: TODAS LAS CARRERAS
+  teaser: "Construye una carrera de éxito con nosotros Unirse a nuestro equipo significa trabajar con personas excepcionales, cada una de las cuales es esencial para mantener nuestra cultura de empresa."
+  abstract: "Formar parte de Azvi es vincularse a una empresa centenaria, con proyectos innovadores y desafiantes, en constante expansión y que apuesta por el talento sin límites. Azvi es una empresa claramente comprometida con el empleo estable y de calidad que realiza importantes esfuerzos por mantener y mejorar las condiciones que garantizan un buen entorno laboral."
+  stand: S/A
+  height1: 25px
+  height: 50px
+  heightStand: 40px
+  heightStyle: height:50px
+  column: 1
+
 
 # - siteurl: https://www.daimlertruck.com/en
 #   logourl: images/companies/daimlertruck.png
@@ -230,10 +292,12 @@ companies:
 
 
 - siteurl: https://grupoinfra.com/
-  logourl: images/companies/cryo.jpeg
+  logourl: images/companies/cryoinfra.avif
   name: CryoInfra
+  logoBanner: 30px
+  logoCard: 30px
   carreras: TODAS LAS CARRERAS
-  teaser: Por 100 años Grupo Infra ha sido protagonista de la transformación de México
+  teaser: "CRYOINFRA, empresa perteneciente al Grupo Infra, con más de 100 años en el Mercado, es el fabricante de Gases Industriales con la mayor participación de ventas en el mercado nacional, capacidad de producción, cantidad de plantas productoras y cobertura en la República Mexicana."
   abstract: Por 100 años Grupo Infra ha sido protagonista de la transformación de México. Siendo parte esencial del que hacer y del desarrollo en el sector industrial y de salud en nuestro país.
   stand: S/A
   height1: 30px
@@ -277,22 +341,23 @@ companies:
 #   heightStyle: height:50px
 #   column: 1
 
-# - siteurl: https://www.lilly.com/latam/carrera
-#   logourl: https://feria-backend-production.up.railway.app/lilly.png
-#   name: Eli Lilly
-#   carreras: TODAS LAS CARRERAS
-#   teaser: Tu trabajo ayuda a mejorar la calidad de vida de las personas en el mundo. Cada acción genera una reacción. Un pensamiento puede fomentar la curiosidad. Un paso puede llevarte a un descubrimiento. Una idea puede mejorar la vida de millones de personas. Cada decisión que tomas está llena de posibilidades.
-#   abstract: Tu trabajo ayuda a mejorar la calidad de vida de las personas en el mundo. Cada acción genera una reacción. Un pensamiento puede fomentar la curiosidad. Un paso puede llevarte a un descubrimiento. Una idea puede mejorar la vida de millones de personas. Cada decisión que tomas está llena de posibilidades.
-#   stand: S/A
-#   height1: 40px
-#   height: 80px
-#   heightStand: 60px
-#   heightStyle: height:60px
-#   column: 1
+- siteurl: https://www.lilly.com/latam/carrera
+  logourl: images/companies/lilly.png
+  name: Eli Lilly
+  carreras: TODAS LAS CARRERAS
+  teaser: Tu trabajo ayuda a mejorar la calidad de vida de las personas en el mundo. Cada acción genera una reacción. Un pensamiento puede fomentar la curiosidad. Un paso puede llevarte a un descubrimiento. Una idea puede mejorar la vida de millones de personas. Cada decisión que tomas está llena de posibilidades.
+  abstract: Tu trabajo ayuda a mejorar la calidad de vida de las personas en el mundo. Cada acción genera una reacción. Un pensamiento puede fomentar la curiosidad. Un paso puede llevarte a un descubrimiento. Una idea puede mejorar la vida de millones de personas. Cada decisión que tomas está llena de posibilidades.
+  stand: S/A
+  height1: 40px
+  height: 80px
+  heightStand: 60px
+  heightStyle: height:60px
+  column: 1
 
 
 - siteurl: https://www.ey.com/es_mx
-  logourl: https://feria-backend-production.up.railway.app/ey_logo.svg
+  logourl: images/companies/ey_logo.svg
+  logoCard: 50px
   name: Ey
   carreras: TODAS LAS CARRERAS
   teaser: "Dondequiera que el mundo laboral los lleve, la Red de EY Alumni está lista para conectarlos con las personas que necesita estar en contacto."
@@ -304,32 +369,51 @@ companies:
   heightStyle: height:90px
   column: 1
 
-# - siteurl: https://www.faroprotec.com/
-#   logourl: images/companies/faroprotec.png
-#   name: Faroprotec
-#   carreras: TODAS LAS CARRERAS
-#   teaser: Asegurar la continuidad de negocios mediante tecnología avanzada, asesoría honesta y servicio sobresaliente
-#   abstract: Asegurar la continuidad de negocios mediante tecnología avanzada, asesoría honesta y servicio sobresaliente
-#   stand: S/A
-#   height1: 40px
-#   height: 60px
-#   heightStand: 50px
-#   heightStyle: height:50px
-#   column: 1
 
-# - siteurl: https://www.emerson.com/es-mx/careers
-#   logourl: images/companies/emerson.png
-#   name: Emerson
-#   carreras: TODAS LAS CARRERAS
-#   teaser: Imagínese rodeado de un equipo de personas innovadoras inteligentes, motivadas y apasionadas, todas trabajando para alcanzar la misma meta.
-#   abstract: Imagínese rodeado de un equipo de personas innovadoras inteligentes, motivadas y apasionadas, todas trabajando para alcanzar la misma meta, crear soluciones revolucionarias que transformen a nuestro mundo en un lugar mejor que el que conocemos. 
-#   stand: S/A
-#   height1: 50px
-#   height: 80px
-#   heightStand: 50px
-#   heightStyle: height:70px
-#   column: 1
+- siteurl: https://www.emerson.com/es-mx/careers
+  logourl: images/companies/emerson.png
+  name: Emerson
+  logoBanner: 50px
+  logoCard: 50px
+  carreras: TODAS LAS CARRERAS
+  teaser: Imagínese rodeado de un equipo de personas innovadoras inteligentes, motivadas y apasionadas, todas trabajando para alcanzar la misma meta.
+  abstract: Imagínese rodeado de un equipo de personas innovadoras inteligentes, motivadas y apasionadas, todas trabajando para alcanzar la misma meta, crear soluciones revolucionarias que transformen a nuestro mundo en un lugar mejor que el que conocemos. 
+  stand: S/A
+  height1: 50px
+  height: 80px
+  heightStand: 50px
+  heightStyle: height:70px
+  column: 1
 
+- siteurl: www.eutelsat.com
+  logourl: images/companies/eutelsat.svg
+  name: Eutelsat
+  logoBanner: 30px
+  logoCard: 30px
+  carreras: TODAS LAS CARRERAS
+  teaser: "Embrace cultural diversity and be part of our global team. Our workforce represents 1514 employees from more than 76 different nationalities working in more 20 offices worldwide, and our revenues are generated from more than 150 countries."
+  abstract: "Embrace cultural diversity and be part of our global team. Our workforce represents 1514 employees from more than 76 different nationalities working in more 20 offices worldwide, and our revenues are generated from more than 150 countries."
+  stand: S/A
+  height1: 50px
+  height: 80px
+  heightStand: 50px
+  heightStyle: height:70px
+  column: 1
+
+- siteurl: https://www.faroprotec.com/
+  logourl: images/companies/logofaro.svg
+  name: Faroprotec
+  logoBanner: 30px
+  logoCard: 30px
+  carreras: TODAS LAS CARRERAS
+  teaser: Si quieres una carrera significativa en un ambiente dinámico de gente brillante que realmente hacen una diferencia, tenemos un lugar para ti.
+  abstract: Si quieres una carrera significativa en un ambiente dinámico de gente brillante que realmente hacen una diferencia, tenemos un lugar para ti.
+  stand: S/A
+  height1: 40px
+  height: 60px
+  heightStand: 50px
+  heightStyle: height:50px
+  column: 1
 # # - siteurl: https://www.fieldcore.com/careers/
 # #   logourl: images/companies/fieldcore.png
 # #   name: FieldCore
@@ -346,8 +430,10 @@ companies:
 - siteurl: https://efds.fa.em5.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1?utm_source=Ford+Champs&utm_medium=Linkedin&utm_id=Ford+Champs
   logourl: images/companies/ford.png
   name: Ford
+  logoBanner: 30px
+  logoCard: 30px
   carreras: TODAS LAS CARRERAS
-  teaser: ACCESS A BETTER TOMORROW, TODAY
+  teaser: "You can be a part of a company that has a bias for action and has invested in real change when employees said they wanted to work differently. Experience a redesigned and remade work experience that puts health, safety, and wellness at the forefront"
   abstract: Ford Motor Company creates transportation solutions built to improve people's lives. Our innovative products, accessories, experiences, and services are designed and produced across six continents, and we are always looking to attract top talent. Join us.
   stand: S/A
   height1: 30px
@@ -355,6 +441,38 @@ companies:
   heightStand: 40px
   heightStyle: height:50px
   column: 1
+
+- siteurl: https://www.gerdaucorsa.com.mx/
+  logourl: images/companies/gerdau.png
+  name: "Gerdau Corsa"
+  logoBanner: 30px
+  logoCard: 30px
+  carreras: TODAS LAS CARRERAS
+  teaser: "Gerdau se embarca en una transformación cultural y digital de varios años. En Gerdau, valoramos el trabajo en equipo, la seguridad y la sostenibilidad. Estamos comprometidos con la mejora continua y creemos que podemos crear un futuro mejor para nuestros empleados y nuestra comunidad global al invertir en personas, procesos y tecnología."
+  abstract: "Gerdau se embarca en una transformación cultural y digital de varios años. En Gerdau, valoramos el trabajo en equipo, la seguridad y la sostenibilidad. Estamos comprometidos con la mejora continua y creemos que podemos crear un futuro mejor para nuestros empleados y nuestra comunidad global al invertir en personas, procesos y tecnología."
+  stand: S/A
+  height1: 30px
+  height: 50px
+  heightStand: 40px
+  heightStyle: height:50px
+  column: 1
+
+
+
+# - siteurl: https://www.gft.com/mx/es
+#   logourl: images/companies/logoGFT.png
+#   name: GFT
+#   logoBanner: 30px
+#   logoCard: 30px
+#   carreras: TODAS LAS CARRERAS
+#   teaser: "Como líderes en transformación digital y apasionados de la innovación tecnológica, aprovechamos todo el potencial de las tecnologías de última generación para ayudar a nuestros clientes a mejorar su productividad con soluciones de software inteligentes en los ámbitos de Enterprise AI and Data, NextGen Finance y Platform Modernisation."
+#   abstract: "Nuestra fuerza se basa en una dilatada experiencia y un amplio conocimiento de las tecnologías digitales, un sólido ecosistema de socios y una comprensión profunda de los sectores en los que operamos, entre ellos principalmente la banca, los seguros y la industria del automóvil. "
+#   stand: S/A
+#   height1: 30px
+#   height: 50px
+#   heightStand: 40px
+#   heightStyle: height:50px
+#   column: 1
 
 # # - siteurl: https://www.gm.com.mx/corporativo/empleo_gm/
 # #   logourl: images/companies/gm2.png
@@ -382,10 +500,12 @@ companies:
 # #   column: 1
 
 - siteurl: https://grupoinfra.com/
-  logourl: images/companies/infra.jpeg
+  logourl: images/companies/infra.webp
   name: Grupo Infra
+  logoBanner: 30px
+  logoCard: 30px
   carreras: TODAS LAS CARRERAS
-  teaser: Por 100 años Grupo Infra ha sido protagonista de la transformación de México
+  teaser: "Colaboramos con miles de clientes desde pequeños negocios hasta grandes conglomerados desde la frontera norte de nuestro país, hasta Centroamérica, con una infraestructura mayor a 30 plantas productoras de gases, más de 230 tiendas oficiales, 50 centros de llenado y más de 800 unidades de transporte"
   abstract: Por 100 años Grupo Infra ha sido protagonista de la transformación de México. Siendo parte esencial del que hacer y del desarrollo en el sector industrial y de salud en nuestro país.
   stand: S/A
   height1: 50px
@@ -394,18 +514,20 @@ companies:
   heightStyle: height:110px
   column: 1
 
-# - siteurl: https://www.gmexico.com/Pages/BolsaTrabajo.aspx
-#   logourl: images/companies/gmexico.svg
-#   name: Grupo México
-#   carreras: TODAS LAS CARRERAS
-#   teaser: En Grupo México sabemos que el logro de resultados sólo se alcanza a través del capital humano, por lo que siempre buscamos atraer, desarrollar y retener al mejor talento.
-#   abstract: En Grupo México sabemos que el logro de resultados sólo se alcanza a través del capital humano, por lo que siempre buscamos atraer, desarrollar y retener al mejor talento. Consulta las oportunidades profesionales con las que contamos en los ámbitos administrativo y operativo de diversas áreas de negocio en nuestras 3 divisiones.
-#   stand: S/A
-#   height1: 40px
-#   height: 40px
-#   heightStand: 35px
-#   heightStyle: height:50px
-#   column: 2
+- siteurl: https://www.gmexico.com/Pages/BolsaTrabajo.aspx
+  logourl: images/companies/gmexico.svg
+  name: Grupo México
+  logoBanner: 30px
+  logoCard: 30px
+  carreras: TODAS LAS CARRERAS
+  teaser: En Grupo México sabemos que el logro de resultados sólo se alcanza a través del capital humano, por lo que siempre buscamos atraer, desarrollar y retener al mejor talento.
+  abstract: En Grupo México sabemos que el logro de resultados sólo se alcanza a través del capital humano, por lo que siempre buscamos atraer, desarrollar y retener al mejor talento. Consulta las oportunidades profesionales con las que contamos en los ámbitos administrativo y operativo de diversas áreas de negocio en nuestras 3 divisiones.
+  stand: S/A
+  height1: 40px
+  height: 40px
+  heightStand: 35px
+  heightStyle: height:50px
+  column: 2
 
 # - siteurl: https://www.gruposalinas.com/
 #   logourl: https://www.gruposalinas.com/Content/iconos/LogoGS-main.svg
@@ -472,18 +594,33 @@ companies:
   heightStyle: height:80px
   column: 2
 
-# - siteurl: https://www.keyence.com.mx/ss/careers/
-#   logourl: images/companies/keyence.jpg
-#   name: Keyence
-#   carreras: TODAS LAS CARRERAS
-#   teaser: KEYENCE ha crecido de forma constante desde el año 1974 para convertirse en un líder innovador en el desarrollo y fabricación de equipos de automatización industrial e inspección.
-#   abstract: KEYENCE ha crecido de forma constante desde el año 1974 para convertirse en un líder innovador en el desarrollo y fabricación de equipos de automatización industrial e inspección, a nivel mundial. Nuestros productos consisten en lectores de códigos, marcadores láser, sistemas de visión artificial, sistemas de medición, microscopios, sensores y eliminadores de estática.
-#   stand: S/A
-#   height1: 25px
-#   height: 50px
-#   heightStand: 30px
-#   heightStyle: height:40px
-#   column: 2
+- siteurl: https://itw.buk.mx/trabaja-con-nosotros
+  logourl: images/companies/itw.png
+  name: ITW
+  carreras: TODAS LAS CARRERAS
+  teaser: "En ITW, cada éxito alcanzado, cada proyecto completado y cada desafío superado en equipo, se convierte en parte de la historia colectiva y de la cultura que juntos construimos. "
+  abstract: "En ITW, cada éxito alcanzado, cada proyecto completado y cada desafío superado en equipo, se convierte en parte de la historia colectiva y de la cultura que juntos construimos. "
+  stand: S/A
+  height1: 40px
+  height: 60px
+  heightStand: 60px
+  heightStyle: height:80px
+  column: 2
+
+- siteurl: https://www.keyence.com.mx/ss/careers/
+  logourl: images/companies/keyence.jpg
+  logoBanner: 30px
+  logoCard: 30px
+  name: Keyence
+  carreras: TODAS LAS CARRERAS
+  teaser: KEYENCE ha crecido de forma constante desde el año 1974 para convertirse en un líder innovador en el desarrollo y fabricación de equipos de automatización industrial e inspección.
+  abstract: KEYENCE ha crecido de forma constante desde el año 1974 para convertirse en un líder innovador en el desarrollo y fabricación de equipos de automatización industrial e inspección, a nivel mundial. Nuestros productos consisten en lectores de códigos, marcadores láser, sistemas de visión artificial, sistemas de medición, microscopios, sensores y eliminadores de estática.
+  stand: S/A
+  height1: 25px
+  height: 50px
+  heightStand: 30px
+  heightStyle: height:40px
+  column: 2
 
 # # - siteurl: https://careers.kionetworks.com/?_ga=2.180170916.1234104365.1675361423-246092732.1675361423
 # #   logourl: images/companies/kio2.png
@@ -510,18 +647,20 @@ companies:
 #   column: 2
 
 
-# - siteurl: https://home.kpmg/mx/es/home/carrera.html
-#   logourl: images/companies/KPMG.png
-#   name: KPMG
-#   carreras: TODAS LAS CARRERAS
-#   teaser: Somos una red global de firmas con profundas raíces locales, que brindamos servicios de Auditoría, Impuestos y Asesoría al mercado.
-#   abstract: Somos una red global de firmas con profundas raíces locales, que brindamos servicios de Auditoría, Impuestos y Asesoría al mercado. Ofrecemos un beneficio doble a nuestros clientes, experiencia global y un amplio conocimiento local de sus necesidades.
-#   stand: S/A
-#   height1: 25px
-#   height: 40px
-#   heightStand: 35px
-#   heightStyle: height:50px
-#   column: 2
+- siteurl: https://home.kpmg/mx/es/home/carrera.html
+  logourl: images/companies/KPMG.png
+  logoCard: 30px
+  logoBanner: 30px
+  name: KPMG
+  carreras: TODAS LAS CARRERAS
+  teaser: Somos una red global de firmas con profundas raíces locales, que brindamos servicios de Auditoría, Impuestos y Asesoría al mercado.
+  abstract: Somos una red global de firmas con profundas raíces locales, que brindamos servicios de Auditoría, Impuestos y Asesoría al mercado. Ofrecemos un beneficio doble a nuestros clientes, experiencia global y un amplio conocimiento local de sus necesidades.
+  stand: S/A
+  height1: 25px
+  height: 40px
+  heightStand: 35px
+  heightStyle: height:50px
+  column: 2
 
 # - siteurl: https://www.ica.com.mx/
 #   logourl: images/companies/ica.jpeg
@@ -562,25 +701,40 @@ companies:
 #   heightStyle: height:50px
 #   column: 2
 
-# - siteurl: https://www.knightpiesold.com/en/
-#   logourl: images/companies/knightpiesold.png
-#   name: Knight Piesold
+- siteurl: https://www.knightpiesold.com/en/
+  logourl: images/companies/knightpiesold.png
+  name: Knight Piesold
+  carreras: TODAS LAS CARRERAS
+  teaser: "En Knight Piésold, nos especializamos en ingeniería y consultoría para los sectores de minería, energía, agua y medio ambiente. Nos enfocamos en hacer lo que mejor sabemos: brindar soluciones innovadoras y sostenibles. Nuestro equipo de expertos, líderes en sus campos, colaborará contigo para afrontar desafíos técnicos y lograr resultados de alto impacto. Si buscas crecimiento profesional en una firma global con proyectos desafiantes, ¡te estamos buscando!"
+  abstract: "En Knight Piésold, nos especializamos en ingeniería y consultoría para los sectores de minería, energía, agua y medio ambiente. Nos enfocamos en hacer lo que mejor sabemos: brindar soluciones innovadoras y sostenibles. Nuestro equipo de expertos, líderes en sus campos, colaborará contigo para afrontar desafíos técnicos y lograr resultados de alto impacto. Si buscas crecimiento profesional en una firma global con proyectos desafiantes, ¡te estamos buscando!"
+  stand: S/A
+  height1: 30px
+  height: 55px
+  heightStand: 40px
+  heightStyle: height:50px
+  column: 2
+
+# - siteurl: https://www.krones.com/en/index.php
+#   logourl: images/companies/krones.png
+#   name: Krones
 #   carreras: TODAS LAS CARRERAS
-#   teaser: We are focused on doing what we do best. Our specialists, who are at the top of their fields, will collaborate with you to address your challenges and realize your goals.
-#   abstract: We are a uniquely diverse group of professionals working together as one team. This is behind everything we do and at the heart of our success. Become a part of our team and join our talented professionals on challenging projects around the world.
+#   teaser: "In order to be where our machines and lines produce beverages and liquid food every day, we have built up a strong international network: Around 17,200 people work for Krones in more than 100 countries around the world."
+#   abstract: "In order to be where our machines and lines produce beverages and liquid food every day, we have built up a strong international network: Around 17,200 people work for Krones in more than 100 countries around the world - more than 10,100 of them in Germany. In addition to the headquarters in Neutraubling, Krones operates plants in Nittenau, Rosenheim and Flensburg."
 #   stand: S/A
-#   height1: 30px
-#   height: 55px
+#   height1: 40px
+#   height: 40px
 #   heightStand: 40px
 #   heightStyle: height:50px
 #   column: 2
 
-- siteurl: https://www.krones.com/en/index.php
-  logourl: images/companies/krones.png
-  name: Krones
+- siteurl: https://jobs.airavirtual.com/el_puerto_de_liverpool
+  logourl: images/companies/LiverpoolColor.png
+  logoCard: 60px
+  logoBanner: 60px
+  name: Liverpool
   carreras: TODAS LAS CARRERAS
-  teaser: "In order to be where our machines and lines produce beverages and liquid food every day, we have built up a strong international network: Around 17,200 people work for Krones in more than 100 countries around the world."
-  abstract: "In order to be where our machines and lines produce beverages and liquid food every day, we have built up a strong international network: Around 17,200 people work for Krones in more than 100 countries around the world - more than 10,100 of them in Germany. In addition to the headquarters in Neutraubling, Krones operates plants in Nittenau, Rosenheim and Flensburg."
+  teaser: "Nuestro compromiso se centra en el bienestar de nuestros colaboradores y clientes. Somos una empresa innovadora y en constante evolución, sabemos la importancia de transformar a nuestros negocios a través de nuestros colaboradores."
+  abstract: "El Puerto de Liverpool es la empresa líder en tiendas departamentales en México. Con más de 170 años en el mercado, nos dedicamos a facilitar la selección de productos y brindarles el mejor servicio a las familias mexicanas, esperando superar las expectativas de calidad, moda, valor y atención dentro de un ambiente agradable. Contamos con cinco unidades de negocio: Tiendas Liverpool, Tiendas Suburbia, Centros Comerciales Galerías, Boutiques y Negocios Financieros, componiendo una empresa sólida, que ofrece a sus colaboradores estabilidad financiera y el orgullo de pertenecer a una empresa 100% Mexicana. Nuestra misión es servir al cliente en todo lugar, todos los días, toda la vida, nuestra visión es ser la mejor opción en servicio, surtido y valor. Nuestros valores nos guían hacia el trabajo en equipo, productividad, innovación e integridad."
   stand: S/A
   height1: 40px
   height: 40px
@@ -588,18 +742,35 @@ companies:
   heightStyle: height:50px
   column: 2
 
-# - siteurl: https://www.mota-engil.com/es/
-#   logourl: images/companies/motaengine.png
-#   name: Mota-Engil
-#   carreras: TODAS LAS CARRERAS
-#   teaser: El Grupo Mota-Engil tiene un trayecto empresarial de más de 75 años, señalados por una cultura de emprendimiento e innovación en su búsqueda permanente de nuevos horizontes.
-#   abstract: Con un posicionamiento de mercado alineado con las mejores prácticas y con una conducta empresarial basada en principios éticos y apoyados en una visión estratégica única e integrada para el futuro, Mota-Engil busca convertirse en un Grupo más internacional, innovador y competitivo a escala global.
-#   stand: S/A
-#   height1: 60px
-#   height: 100px
-#   heightStand: 70px
-#   heightStyle: height:120px
-#   column: 2
+- siteurl: https://www.micron.com/about/careers
+  logourl: images/companies/micron.png
+  logoCard: 30px
+  logoBanner: 30px
+  name: Micron
+  carreras: TODAS LAS CARRERAS
+  teaser: "Interested in learning more about how we work? We are making a difference through our work, in our teams and within our communities."
+  abstract: "Whether you're a technician, an engineer or a global project leader, you'll be part of a team that develops and delivers critical memory and storage solutions. Discover a career path with Micron today."
+  stand: S/A
+  height1: 60px
+  height: 100px
+  heightStand: 70px
+  heightStyle: height:120px
+  column: 2
+
+- siteurl: https://www.mota-engil.com/es/
+  logourl: images/companies/logomotaengil.png
+  logoCard: 30px
+  logoBanner: 30px
+  name: Mota-Engil
+  carreras: TODAS LAS CARRERAS
+  teaser: El Grupo Mota-Engil tiene un trayecto empresarial de más de 75 años, señalados por una cultura de emprendimiento e innovación en su búsqueda permanente de nuevos horizontes.
+  abstract: Con un posicionamiento de mercado alineado con las mejores prácticas y con una conducta empresarial basada en principios éticos y apoyados en una visión estratégica única e integrada para el futuro, Mota-Engil busca convertirse en un Grupo más internacional, innovador y competitivo a escala global.
+  stand: S/A
+  height1: 60px
+  height: 100px
+  heightStand: 70px
+  heightStyle: height:120px
+  column: 2
 
 - siteurl: https://careers.niagarawater.com/us/en
   logourl: images/companies/niagara.jpeg
@@ -686,8 +857,25 @@ companies:
 # #   height: 80px
 # #   column: 2
  
+ 
+- siteurl: https://www.pepsicojobs.com/main/?lang=es-MX
+  logourl: images/companies/pepsico.png
+  name: Pepsico
+  carreras: TODAS LAS CARRERAS
+  abstract: "¿Buscas pasantías y oportunidades de empezar tu carrera? PepsiCo es divertido, dinámico y un lugar donde puedes desarrollar tus habilidades y avanzar sin cambiar quién eres. Valoramos tus historias únicas, nuevos conjuntos de habilidades y perspectivas frescas."
+  teaser: "Desde ingeniería hasta derecho, PepsiCo invita a recién graduados y estudiantes a ayudar a definir el futuro de nuestras marcas icónicas y sus carreras."
+  stand: S/A
+  height1: 25px
+  height: 40px
+  heightStand: 30px
+  heightStyle: height:50px
+  column: 2
+ 
+
 - siteurl: http://www.pg.com/es_LATAM/MX/
   logourl: images/companies/pg.jpg
+  logoCard: 30px
+  logoBanner: 30px
   name: Procter & Gamble
   carreras: TODAS LAS CARRERAS
   teaser: Day 1. It’s something everyone experiences when they join a new company, whether they’re
@@ -724,21 +912,40 @@ companies:
 # #   heightStand: 40px
 # #   column: 2
 
-# - siteurl: https://mx.saint-gobain-glass.com/es-MX
-#   logourl: images/companies/SaintGobain.png
-#   name: Saint-Gobain
-#   carreras: TODAS LAS CARRERAS
-#   teaser: ¡Trabaja en una empresa con más de 350 años de innovación que busca construir lugares grandiosos para vivir y mejorar la vida diaria a través del confort y la sustentabilidad
-#   abstract: Creemos que las personas son protagonistas de sus carreras. Por lo tanto, el Grupo cuenta con prácticas de recursos humanos que se han construido en una cultura de respeto, apertura a la diversidad y reconocimiento del talento interno.
-#   stand: S/A
-#   height1: 40px
-#   height: 60px
-#   heightStand: 40px
-#   heightStyle: height:40px
-#   column: 2
+- siteurl: https://www.saint-gobain-sekurit.com/
+  logourl: images/companies/saint-gobain.png
+  logoCard: 50px
+  logoBanner: 50px
+  name: Saint-Gobain
+  carreras: TODAS LAS CARRERAS
+  teaser: "En Saint-Gobain Sekurit ofrecemos un camino basado en agilidad, colaboración, y nuevas tecnologías, para desarrollar sistemas adaptados a las tendencias del mercado, nuevas demandas y el futuro de la mobilidad. Serás mentoreado para diseñar tu carrera de acuerdo a tu dominio de intereses."
+  abstract: "Ofrecemos varias formas para iniciar tu carrera después de graduarte. Como una compañía internacional con presencia en más de 60 países, entrenamos a una nueva generación de ejecutivos para abordar los retos del mañana. Desde trabajar en un Centro de Investigación y Desarrollo a programas especiales de graduados, las posibilidades no tienen fin."
+  stand: S/A
+  height1: 40px
+  height: 60px
+  heightStand: 40px
+  heightStyle: height:40px
+  column: 2
+
+- siteurl: https://www.sw.siemens.com/es-ES/
+  logourl: images/companies/siemens.png
+  logoCard: 20px
+  logoBanner: 20px
+  name: Siemens
+  carreras: TODAS LAS CARRERAS
+  teaser: "Empoderamos a los trabajadores para que cada cliente se sienta empoderado con nuestra tecnología, cada partner esté equipado para colaborar y cada compañero tenga la confianza de preguntar y arriesgar."
+  abstract: "En Siemens, nos comprometemos a hacer real el futuro y tu trayectoria profesional. Formarás parte de un ecosistema diverso que no solo afecta a nuestros productos, soluciones y transformaciones digitales, sino que también marca la diferencia en comunidades de todo el mundo."
+  stand: S/A
+  height1: 40px
+  height: 60px
+  heightStand: 40px
+  heightStyle: height:40px
+  column: 2
 
 - siteurl: https://careers.slb.com/
-  logourl: images/companies/slb.jpeg
+  logourl: images/companies/slbrgb.svg
+  logoCard: 40px
+  logoBanner: 40px
   name: SLB
   carreras: TODAS LAS CARRERAS
   teaser: Working at the forefront of one of the most dynamic and exciting industries offers unique opportunities to achieve incredible things and realize ambitious personal goals.
@@ -750,18 +957,20 @@ companies:
   heightStyle: height:60px
   column: 2
  
-# - siteurl: https://schneiderele.taleo.net/careersection/2/jobsearch.ftl
-#   logourl: https://feria-backend-production.up.railway.app/schneider-logo.png
-#   name: Schneider Electric
-#   carreras: TODAS LAS CARRERAS
-#   teaser: "Innovation is our middle name. Good is never good enough, and that’s why we are constantly experimenting, taking risks and disrupting the status quo. We are always looking for people who are curious and constantly in beta mode."
-#   abstract: "Innovation is our middle name. Good is never good enough, and that’s why we are constantly experimenting, taking risks and disrupting the status quo. We are always looking for people who are curious and constantly in beta mode."
-#   stand: S/A
-#   height1: 30px
-#   height: 50px
-#   heightStand: 50px
-#   heightStyle: height:50px
-#   column: 2
+- siteurl: https://www.se.com/mx/es/about-us/careers/overview.jsp
+  logourl: images/companies/schneider.png
+  logoCard: 40px
+  logoBanner: 40px
+  name: Schneider Electric
+  carreras: TODAS LAS CARRERAS
+  teaser: "Trabajar en Schneider Electric significa trabajar para lograr un mundo mejor y más limpio. Eres parte de un equipo global creado a partir de la inclusión, maestría, propósito, acción, curiosidad y trabajo en equipo, lo que convierte las ambiciones de sostenibilidad en acciones."
+  abstract: "En Schneider Electric, todo lo que hacemos promueve el progreso y la sostenibilidad para todos: nuestros colegas, clientes, socios, y las comunidades y sociedades donde vivimos y trabajamos. Desde los productos, software y servicios que impulsan la transformación digital de la gestión y automatización de la energía hasta la ciudadanía corporativa y las actividades de voluntariado, impactamos al ayudar a las personas y organizaciones a que se vuelvan más resilientes y eficientes, y que utilicen más la electricidad y la digitalización"
+  stand: S/A
+  height1: 30px
+  height: 50px
+  heightStand: 50px
+  heightStyle: height:50px
+  column: 2
 
 # # - siteurl: http://sefi.org.mx/
 # #   logourl: images/companies/sefiazul.png
@@ -827,18 +1036,20 @@ companies:
 # #   heightStyle: height:70px
 # #   column: 2
 
-# - siteurl: https://www.unilever.com/careers/
-#   logourl: images/companies/unilever.png
-#   name: Unilever 
-#   carreras: TODAS LAS CARRERAS
-#   teaser: "We are a team of 128,000 people – people with purpose who thrive in our unique culture and make a real and lasting difference to the planet, our society and their careers."
-#   abstract: "We are a team of 128,000 people – people with purpose who thrive in our unique culture and make a real and lasting difference to the planet, our society and their careers. With many brands around the world, there are plenty of amazing prospects at Unilever for career starters and experienced professionals. Global or local, start looking…"
-#   stand: S/A
-#   height1: 60px
-#   height: 80px
-#   heightStand: 80px
-#   heightStyle: height:80px
-#   column: 2
+- siteurl: https://www.instagram.com/unilevercareersmxrd?igsh=NjE3cWRjeWVmdG5m&utm_source=qr
+  logourl: images/companies/unilever.png
+  logoCard: 60px
+  logoBanner: 50px
+  name: Unilever 
+  carreras: TODAS LAS CARRERAS
+  teaser: "We are a team of 128,000 people – people with purpose who thrive in our unique culture and make a real and lasting difference to the planet, our society and their careers."
+  abstract: "We are a team of 128,000 people – people with purpose who thrive in our unique culture and make a real and lasting difference to the planet, our society and their careers. With many brands around the world, there are plenty of amazing prospects at Unilever for career starters and experienced professionals. Global or local, start looking…"
+  stand: S/A
+  height1: 60px
+  height: 80px
+  heightStand: 80px
+  heightStyle: height:80px
+  column: 2
 
 # # - siteurl: https://www.vitalmex.com.mx/vacantes/
 # #   logourl: images/companies/vitalmex.png
@@ -892,7 +1103,7 @@ companies:
 #   column: 2
 
 # - siteurl: "https://www.worley.com/"
-#   logourl: https://feria-backend-production.up.railway.app/5d5cd299-f0d2-4936-9ac1-9da22218c783.jpg
+#   logourl: images/companies/worley.jpg
 #   name: "Worley"
 #   carreras: "Todas las carreras"
 #   teaser: "In the face of the world’s transition to a lower carbon and distributed energy system, what does it take to make sustainable transformation a reality in energy, chemicals and resources?"
@@ -930,18 +1141,20 @@ companies:
 # #   heightStyle: height:50px
 # #   column: 2
  
-# - siteurl: https://www.zte.com.cn/global/
-#   logourl: images/companies/zte.png
-#   name: ZTE
-#   carreras: TODAS LAS CARRERAS
-#   teaser: ZTE is a world-leading comprehensive telecommunication solution 
-#   abstract: ZTE is a world-leading comprehensive telecommunication solution provider, the largest telecommunication equipment listed company, as well as a top ranking ICT solutions provider.
-#   stand: S/A
-#   height1: 20px
-#   height: 30px
-#   heightStand: 20px
-#   heightStyle: height:40px
-#   column: 2
+- siteurl: https://www.zte.com.cn/global/
+  logourl: images/companies/logozte.png
+  logoCard: 30px
+  logoBanner: 30px
+  name: ZTE
+  carreras: TODAS LAS CARRERAS
+  teaser: ZTE is a world-leading comprehensive telecommunication solution 
+  abstract: ZTE is a world-leading comprehensive telecommunication solution provider, the largest telecommunication equipment listed company, as well as a top ranking ICT solutions provider.
+  stand: S/A
+  height1: 20px
+  height: 30px
+  heightStand: 20px
+  heightStyle: height:40px
+  column: 2
 
 # - siteurl: http://www.zuma-ti.com.mx/
 #   logourl: images/companies/zuma2.webp
