@@ -2,7 +2,7 @@ companies:
 - siteurl: https://www.instagram.com/unam.aafi
   logourl: images/agrupaciones/aafi_logo.png
   name: AAFI 
-  logoBanner: 30px
+  logoBanner: BIG
   logoCard: 30px
   carreras: TODAS LAS CARRERAS
   teaser: "Asociación Aeroespacial de la Facultad de Ingeniería"
@@ -18,7 +18,7 @@ companies:
   logourl: images/agrupaciones/aapg_logo.png
   name: AAPG-UNAM
   logoCard: 30px
-  logoBanner: 30px
+  logoBanner: BIG
   carreras: TODAS LAS CARRERAS
   teaser: "American Association of Petroleum Geologists-UNAM Student Chapter"
   abstract: "Capítulo Estudiantil de la Asociación Americana de Geologos Petroleros en la UNAM comprometidos con el desarrollo de los estudiantes de Ciencias de la Tierra inclinados a la industria petrolera."
@@ -130,7 +130,7 @@ companies:
   logourl: images/agrupaciones/asce_logo.png
   name: ASCE FI UNAM
   logoCard: 30px
-  logoBanner: 30px
+  logoBanner: SMALL
   carreras: TODAS LAS CARRERAS
   teaser: "Capítulo Estudiantil de la American Society of Civil Engineers"
   abstract: "Como representantes de la Sociedad Americana de Ingenieros Civiles (American Society of Civil Engineers) en la Facultad de Ingeniería, es nuestra prioridad trabajar para que los estudiantes de Ingeniería civil desarrollen interés hacia las actividades extracurriculares que completan su formación como ingenieros tales como concursos, talleres, conferencias, seminarios, congresos y muchas más actividades que te permitirán desarrollar habilidades como liderazgo, trabajo en equipo, responsabilidad y compromiso."
@@ -162,7 +162,7 @@ companies:
   logourl: images/agrupaciones/baja_logo.png
   name: Baja SAE
   logoCard: 30px
-  logoBanner: 30px
+  logoBanner: SMALL
   carreras: TODAS LAS CARRERAS
   teaser: "Baja SAE UNAM Puma Off - Road Team"
   abstract: "Equipo multidisciplinario enfocado al diseño, manufactura y validación de un vehículo monoplaza todoterreno para competir a nivel nacional e internacional en el evento Baja SAE."

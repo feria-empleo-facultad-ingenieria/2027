@@ -1,4 +1,5 @@
 <section class="aos-init aos-animate">
+  <hr>
   <div data-aos="fade-up">
     <div class="row flex-md-row mb-4">
       <div class="col-md-12 ml-auto mr-auto">
@@ -10,12 +11,11 @@
             {% assign counterC = 0 %}
             {% assign totalC = site.data.companies.companies  | size %}
             {% for company in site.data.companies.companies %}
-            <div class="swiper-slide" role="group" aria-label="{{counterC}} / {{totalC}}" style="height: 60px !important;" data-swiper-slide-index="{{ counterC++ }}">
-              {% if company.logoBanner != null %}
-              {% assign styleImg = "style='vertical-align: middle;height:" | append: company.logoBanner | append: ";'" %}
-              <img src="{{ company.logourl }}" {{styleImg}} class="img-fluid" alt=""> 
+            <div class="swiper-slide" role="group" aria-label="{{counterC}} / {{totalC}}" style="height: 150px !important;" data-swiper-slide-index="{{ counterC++ }}">
+              {% if company.logoBanner == "SMALL" %}
+              <img src="{{ company.logourl }}" style="vertical-align: middle;height:60px;"  class="img-fluid" alt="{{ company.name }}"> 
               {% else %}
-              <img src="{{ company.logourl }}" style="vertical-align: middle;height:40px;" class="img-fluid" alt="">
+              <img src="{{ company.logourl }}" style="vertical-align: middle;height:80px;" class="img-fluid" alt="{{ company.name }}">
               {% endif %}
             </div>
             {% endfor %}
@@ -24,4 +24,5 @@
       </div>
     </div>
   </div>
+  <hr>
 </section>
