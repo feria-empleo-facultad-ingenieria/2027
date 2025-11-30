@@ -3,7 +3,7 @@ companies:
   logourl: images/agrupaciones/aafi_logo.png
   name: AAFI 
   logoBanner: BIG
-  logoCard: 30px
+  logoCard: 50px
   carreras: TODAS LAS CARRERAS
   teaser: "Asociación Aeroespacial de la Facultad de Ingeniería"
   abstract: "Somos la agrupación estudiantil dedicada al desarrollo de ingeniería y ciencias aeroespaciales. En la parte de proyectos contamos con proyectos introductorios al desarrollo de cargas útiles (CanSat), en el desarrollo de cohetería experimental, en el desarrollo de de un robot asistente en medicina aeroespacial, en el desarrollo de un avión en la división de aeronáutica y en la divulgación de la ciencia aeroespaciales."
@@ -17,7 +17,7 @@ companies:
 - siteurl: https://instagram.com/aapg.unam.sch?igshid=ZDdkNTZiNTM=
   logourl: images/agrupaciones/aapg_logo.png
   name: AAPG-UNAM
-  logoCard: 30px
+  logoCard: 50px
   logoBanner: BIG
   carreras: TODAS LAS CARRERAS
   teaser: "American Association of Petroleum Geologists-UNAM Student Chapter"
@@ -33,7 +33,7 @@ companies:
 - siteurl: https://www.facebook.com/people/Aci-FI-Unam/100015310534240
   logourl: images/agrupaciones/aci-fi_logo.png
   name: ACI FI UNAM
-  logoCard: 30px
+  logoCard: 50px
   logoBanner: 30px
   carreras: TODAS LAS CARRERAS
   teaser: "Capítulo Estudiantil del American Concrete Institute"
@@ -65,7 +65,7 @@ companies:
 - siteurl: https://www.instagram.com/ceamaac_fi_unam/
   logourl: images/agrupaciones/amaac_logo.png
   name: AMAAC-FI
-  logoCard: 30px
+  logoCard: 50px
   logoBanner: 30px
   carreras: TODAS LAS CARRERAS
   teaser: "Capítulo Estudiantil de la Asociación Mexicana del Asfalto"
@@ -81,7 +81,7 @@ companies:
 - siteurl: https://www.facebook.com/Amh.unam/
   logourl: images/agrupaciones/amh_logo.png
   name: AMH
-  logoCard: 30px
+  logoCard: 50px
   logoBanner: 30px
   carreras: TODAS LAS CARRERAS
   teaser: "Capítulo Estudiantil de la Asociación Mexicana de Hidráulica, FI, UNAM"
@@ -97,7 +97,7 @@ companies:
 - siteurl: https://www.facebook.com/Cap%C3%ADtulo-Estudiantil-Amivtac-FI-UNAM-1589392424663052/
   logourl: images/agrupaciones/amivtac_logo.png
   name: AMIVTAC CEAFI-UNAM
-  logoCard: 30px
+  logoCard: 50px
   logoBanner: 30px
   carreras: TODAS LAS CARRERAS
   teaser: "Capítulo Estudiantil Asociación Mexicana de Ingeniería de Vías Terrestres AC-Facultad de Ingeniería UNAM"
@@ -113,7 +113,7 @@ companies:
 - siteurl: 
   logourl: images/agrupaciones/generic_logo.png
   name: AML-FI-UNAM
-  logoCard: 30px
+  logoCard: 50px
   logoBanner: 30px
   carreras: TODAS LAS CARRERAS
   teaser: "Asociación Mexicana de Logística y Cadena de Suministro"
@@ -145,7 +145,7 @@ companies:
 - siteurl: https://www.facebook.com/ASME-SOMIM-UNAM-Facultad-de-Ingenier%C3%ADa-133634616785171/
   logourl: images/agrupaciones/asme_logo.png
   name: ASME SOMIM
-  logoCard: 30px
+  logoCard: 50px
   logoBanner: 30px
   carreras: TODAS LAS CARRERAS
   teaser: "American Society of Mechanical Engineers - Sociedad Mexicana de Ingeniería Mecánica"
@@ -177,7 +177,7 @@ companies:
 - siteurl: http://facebook.com/ceagfi
   logourl: images/agrupaciones/ceagfi_logo.png
   name: CEAGFI
-  logoCard: 30px
+  logoCard: 50px
   logoBanner: 30px
   carreras: TODAS LAS CARRERAS
   teaser: "Capítulo Estudiantil de la Asamblea de Generaciones de la Facultad de Ingeniería, UNAM"
@@ -193,7 +193,7 @@ companies:
 - siteurl: 
   logourl: images/agrupaciones/generic_logo.png
   name: CEAMGP
-  logoCard: 30px
+  logoCard: 50px
   logoBanner: 30px
   carreras: TODAS LAS CARRERAS
   teaser: "Capítulo Estudiantil de la Asociación Mexicana de Goólogos Petroleros"
@@ -209,7 +209,7 @@ companies:
 - siteurl: https://www.instagram.com/cecicm_fi_unam/
   logourl: images/agrupaciones/cecicm_logo.png
   name: CECICM
-  logoCard: 30px
+  logoCard: 50px
   logoBanner: 30px
   carreras: TODAS LAS CARRERAS
   teaser: "Club de Estudiantes del Colegio de Ingenieros Civiles de México"
@@ -225,7 +225,7 @@ companies:
 - siteurl: 
   logourl: images/agrupaciones/generic_logo.png
   name: CEMM
-  logoCard: 30px
+  logoCard: 50px
   logoBanner: 30px
   carreras: TODAS LAS CARRERAS
   teaser: "Capítulo Estudiantil Minero Metalurgista"
@@ -241,7 +241,7 @@ companies:
 - siteurl: https://www.facebook.com/cursos.fi?fref=ts
   logourl: images/agrupaciones/cifi_logo.png
   name: CIFI
-  logoCard: 30px
+  logoCard: 50px
   logoBanner: 30px
   carreras: TODAS LAS CARRERAS
   teaser: "Cursos Intersemestrales en la Facultad de Ingeniería"
@@ -257,7 +257,7 @@ companies:
 - siteurl: http://www.facebook.com/cineclubfi
   logourl: images/agrupaciones/cineclub_logo.png
   name: Cineclub FI
-  logoCard: 30px
+  logoCard: 50px
   logoBanner: 30px
   carreras: TODAS LAS CARRERAS
   teaser: "Cineclub Ingeniería"
@@ -273,7 +273,7 @@ companies:
 - siteurl: 
   logourl: images/agrupaciones/coro_logo.png
   name: Coro FI
-  logoCard: 30px
+  logoCard: 50px
   logoBanner: 30px
   carreras: TODAS LAS CARRERAS
   teaser: "Coral Ars Iovialis de la Facultad de Ingeniería"
@@ -289,11 +289,411 @@ companies:
 - siteurl: 
   logourl: images/agrupaciones/cnu_logo.png
   name: CNU
-  logoCard: 30px
+  logoCard: 50px
   logoBanner: 30px
   carreras: TODAS LAS CARRERAS
   teaser: "Centro de Negocios Universitario"
   abstract: "Impulsa el desarrollo económico del país creando, consolidando y apoyando oportunidades de negocio aplicando las metodologías actuales."
+  stand: S/A
+  height1: 30px
+  height: 60px
+  heightStand: 50px
+  heightStyle: height:50px
+  column: 1
+  standId: ""
+
+- siteurl: "https://www.instagram.com/crofi.unam"
+  logourl: "images/agrupaciones/crofi_logo.png"
+  name: "CROFI"
+  logoCard: 50px
+  logoBanner: 30px
+  carreras: TODAS LAS CARRERAS
+  teaser: "Club de Robotica de la Facultad de Ingeniería"
+  abstract: "Somos una agrupación por y para los y las estudiantes que tiene por objetivo transmitir y aprender del campo de la robótica a partir del desarrollo de robots orientados para competir en diversos concursos nacionales e internacionales"
+  stand: S/A
+  height1: 30px
+  height: 60px
+  heightStand: 50px
+  heightStyle: height:50px
+  column: 1
+  standId: ""
+
+- siteurl: "https://www.facebook.com/EAGE.UNAM/"
+  logourl: "images/agrupaciones/eage_logo.png"
+  name: "EAGE-UNAM"
+  logoCard: 50px
+  logoBanner: 30px
+  carreras: TODAS LAS CARRERAS
+  teaser: "European Association of Geoscientists and Engineers Student Chapter UNAM"
+  abstract: "Capítulo Estudiantil que promueve la convivencia, apoyo y unión entre los estudiantes del área de Ciencias de la Tierra de la UNAM. Así mismo, brinda a los alumnos herramientas para una mejor preparación para su formación académica y profesional."
+  stand: S/A
+  height1: 30px
+  height: 60px
+  heightStand: 50px
+  heightStyle: height:50px
+  column: 1
+  standId: ""
+
+- siteurl: "https://www.facebook.com/fotoclubingenierosunam/"
+  logourl: "images/agrupaciones/fci_logo.png"
+  name: "fci"
+  logoCard: 50px
+  logoBanner: 30px
+  carreras: TODAS LAS CARRERAS
+  teaser: "Foto Club Ingenieros"
+  abstract: "La más longeva de las sociedades estudiantiles de la Facultad de Ingeniería (fundada en 1954) dedicada a la creación, difusión e instrucción de las técnicas fotográficas blanco y negro, color, digital, etc."
+  stand: S/A
+  height1: 30px
+  height: 60px
+  heightStand: 50px
+  heightStyle: height:50px
+  column: 1
+  standId: ""
+
+- siteurl: "mailto:bep_avalos@hotmail.com"
+  logourl: "images/agrupaciones/ieee_logo.png"
+  name: "IEEE-UNAM/SAEEFI"
+  logoCard: 50px
+  logoBanner: 30px
+  carreras: TODAS LAS CARRERAS
+  teaser: "Rama Estudiantil del Institute of Electrical and Electronics Engineering - Sociedad de Alumnos Eléctricos Electrónicos de la Facultad de Ingeniería"
+  abstract: "Sociedad estudiantil comprometida en proporcionar a los alumnos de la Facultad de Ingeniería actividades en el área de la ingeniería eléctrica y electrónica, que sirvan como herramientas para la formación integral de los alumnos como futuros ingenieros. Así como el mantener fuertes lazos con empresas tanto públicas como privadas para el desarrollo de México."
+  stand: S/A
+  height1: 30px
+  height: 60px
+  heightStand: 50px
+  heightStyle: height:50px
+  column: 1
+  standId: ""
+
+- siteurl: "mailto:unam.fi@presidenteimefu.com"
+  logourl: "images/agrupaciones/generic_logo.png"
+  name: "IMEFU"
+  logoCard: 50px
+  logoBanner: 30px
+  carreras: TODAS LAS CARRERAS
+  teaser: "Instituto Mexicano de Ejecutivos de Finanzas Universitario FI - SEFI"
+  abstract: "Somos una organización estudiantil con presencia nacional que reúne a los jóvenes interesados en los entornos económicos, financieros y empresariales a realizar actividades que contribuyan a su desarrollo integral y que además generen valor en la sociedad."
+  stand: S/A
+  height1: 30px
+  height: 60px
+  heightStand: 50px
+  heightStyle: height:50px
+  column: 1
+  standId: ""
+
+- siteurl: "https://instagram.com/moto.spark.unam"
+  logourl: "images/agrupaciones/motospark_logo.png"
+  name: "MOTOSPARK UNAM"
+  logoCard: 50px
+  logoBanner: 30px
+  carreras: TODAS LAS CARRERAS
+  teaser: "MOTOSPARK UNAM RACING TEAM"
+  abstract: "Somos un equipo encargado del diseño en motocicletas eléctricas para el formato de competencia en MOTOSTUDENT, compuesto por varias carreras de la comunidad universitaria, cuya misión es la de capacitar a los profesionistas del mañana con experiencias laborales y empresariales reales, habilidades blandas y una formación con valores de inclusión y perspectiva de género."
+  stand: S/A
+  height1: 30px
+  height: 60px
+  heightStand: 50px
+  heightStyle: height:50px
+  column: 1
+  standId: ""
+
+- siteurl: "https://facebook.com/PumaHat"
+  logourl: "images/agrupaciones/phct_logo.jpg"
+  name: "PHCT"
+  logoCard: 50px
+  logoBanner: 30px
+  carreras: TODAS LAS CARRERAS
+  teaser: "PumaHat Cybersecurity Team"
+  abstract: "Somos una agrupación estudiantil cuyo objetivo es que las y los alumnos de la UNAM adquieran y refuercen, mediante un entrenamiento constante, conocimientos prácticos en seguridad informática, considerando principalmente el desarrollo profesional, académico y social de sus miembros."
+  stand: S/A
+  height1: 30px
+  height: 60px
+  heightStand: 50px
+  heightStyle: height:50px
+  column: 1
+  standId: ""
+
+- siteurl: "mailto:fsae.unam.contacto@gmail.com"
+  logourl: "images/agrupaciones/sae_logo.png"
+  name: "SAE-UNAM"
+  logoCard: 50px
+  logoBanner: 30px
+  carreras: TODAS LAS CARRERAS
+  teaser: "Society of Automotive Engineers, Capítulo UNAM"
+  abstract: "Agrupación estudiantil dedicada al acercamiento de los estudiantes de la Facultad con el desarrollo de Ingeniería aplicada y tecnología de vehículos automotores."
+  stand: S/A
+  height1: 30px
+  height: 60px
+  heightStand: 50px
+  heightStyle: height:50px
+  column: 1
+  standId: ""
+
+- siteurl: "mailto:safir.fi@gmail.com"
+  logourl: "images/agrupaciones/safir_logo.png"
+  name: "SAFIR"
+  logoCard: 50px
+  logoBanner: 30px
+  carreras: TODAS LAS CARRERAS
+  teaser: "Sociedad Astronómica de la Facultad de Ingeniería de la UNAM"
+  abstract: "Sociedad estudiantil comprometida en proporcionar a los alumnos de la Facultad de Ingeniería actividades en el área de la ingeniería eléctrica y electrónica, que sirvan como herramientas para la formación integral de los alumnos como futuros ingenieros. Así como el mantener fuertes lazos con empresas tanto públicas como privadas para el desarrollo de México."
+  stand: S/A
+  height1: 30px
+  height: 60px
+  heightStand: 50px
+  heightStyle: height:50px
+  column: 1
+  standId: ""
+
+- siteurl: "https://www.instagram.com/sagfi.unam"
+  logourl: "images/agrupaciones/sagfi_logo.png"
+  name: "SAGFI"
+  logoCard: 50px
+  logoBanner: 30px
+  carreras: TODAS LAS CARRERAS
+  teaser: "Sociedad de Alumnos de Geofísica de la Facultad de Ingeniería"
+  abstract: "Capítulo Estudiantil de la Asociación Mexicana de Geofísicos de Exploración (AMGE-UNAM) y de la Society of Exploration Geophysicists (SEG-UNAM). La SAGFI tiene como objetivo lograr la integración de la comunidad estudiantil de Ingeniería Geofísica, aportando herramientas tanto académicas como culturales y sociales que ayuden en la formación profesional e integral de los estudiantes."
+  stand: S/A
+  height1: 30px
+  height: 60px
+  heightStand: 50px
+  heightStyle: height:50px
+  column: 1
+  standId: ""
+
+- siteurl: "mailto:unam.saicfi@gmail.com"
+  logourl: "images/agrupaciones/saic_logo.png"
+  name: "SAIC"
+  logoCard: 50px
+  logoBanner: 30px
+  carreras: TODAS LAS CARRERAS
+  teaser: "Sociedad de Alumnos de Ingeniería en Computación"
+  abstract: "La Sociedad Alumnos de Ingeniería en Computación es una agrupación hecha por estudiantes interesados en las diferentes ramas, actividades y tendencias del computo con la finalidad de colaborar en la formación de los futuros profesionales de la ingeniería en computación."
+  stand: S/A
+  height1: 30px
+  height: 60px
+  heightStand: 50px
+  heightStyle: height:50px
+  column: 1
+  standId: ""
+
+- siteurl: "https://www.facebook.com/SAIGFI/"
+  logourl: "images/agrupaciones/saig_logo.png"
+  name: "SAIG"
+  logoCard: 50px
+  logoBanner: 30px
+  carreras: TODAS LAS CARRERAS
+  teaser: "Sociedad de Alumnos de Ingeniería Geomática"
+  abstract: "Como estudiantes de la carrera de Ingeniería Geomática interesados en el pleno desarrollo de la misma, nace el interés de pertenecer a una sociedad de alumnos siendo un medio de representación, voz y oído de los alumnos de la ya mencionada, con el fin de prepararnos íntegramente para enfrentar todo tipo de retos en el ámbito académico y laboral."
+  stand: S/A
+  height1: 30px
+  height: 60px
+  heightStand: 50px
+  heightStyle: height:50px
+  column: 1
+  standId: ""
+
+- siteurl: "mailto:saiiunamfi@gmail.com"
+  logourl: "images/agrupaciones/saii_logo.png"
+  name: "SAII"
+  logoCard: 50px
+  logoBanner: 30px
+  carreras: TODAS LAS CARRERAS
+  teaser: "Sociedad de Alumnos de Ingeniería Industrial"
+  abstract: "La Sociedad de Alumnos de Ingeniería Industrial es una organización creada por y para los alumnos, motivados por alcanzar un desarrollo integral desde el punto de vista humano y profesional."
+  stand: S/A
+  height1: 30px
+  height: 60px
+  heightStand: 50px
+  heightStyle: height:50px
+  column: 1
+  standId: ""
+
+- siteurl: "http://www.facebook.com/saimecfi"
+  logourl: "images/agrupaciones/saimec_logo.png"
+  name: "SAIMEC"
+  logoCard: 50px
+  logoBanner: 30px
+  carreras: TODAS LAS CARRERAS
+  teaser: "Sociedad de Alumnos de Ingeniería Mecánica"
+  abstract: "Sociedad estudiantil enfocada en la difusión de todo lo relacionado con las carreras de Ingeniería Mecánica, Mecatrónica y en Sistemas Biomédicos. Nos enfocamos en diversas disciplinas que van desde diseño mecánico, mecatrónico, programación, robótica, hasta mecánica de fluidos. Trabajamos como un equipo dispuesto a asesorar proyectos estudiantiles dónde se aplique la Ingeniería Mecánica, Mecatrónica y en Sistemas Biomédicos."
+  stand: S/A
+  height1: 30px
+  height: 60px
+  heightStand: 50px
+  heightStyle: height:50px
+  column: 1
+  standId: ""
+
+- siteurl: "https://es-la.facebook.com/SAIPFIUNAM/"
+  logourl: "images/agrupaciones/saimm_logo.png"
+  name: "SAIMM"
+  logoCard: 50px
+  logoBanner: 30px
+  carreras: TODAS LAS CARRERAS
+  teaser: "Sociedad de Alumnos de Ingeniería de Minas y Metalurgia"
+  abstract: "Representamos los intereses colectivos de los estudiantes de la carrera de Ingeniería de Minas y Metalurgia de la Universidad Nacional Autónoma de México a través del desarrollo de actividades académicas, sociales, culturales y deportivas que complementen su formación profesional."
+  stand: S/A
+  height1: 30px
+  height: 60px
+  heightStand: 50px
+  heightStyle: height:50px
+  column: 1
+  standId: ""
+
+- siteurl: "https://es-la.facebook.com/SAIPFIUNAM/"
+  logourl: "images/agrupaciones/saip_logo.png"
+  name: "SAIP"
+  logoCard: 50px
+  logoBanner: 30px
+  carreras: TODAS LAS CARRERAS
+  teaser: "Sociedad de Alumnos de Ingeniería Petrolera"
+  abstract: "Fundada en 1997, la SAIP es un sitio de intercambio de ideas entre alumnos de la carrera de Ingeniería Petrolera y un importante contacto con el mercado de trabajo. Sus activiades abarcan cursos diversos, actividades deportivas, asistencia a congresos o simposios, organización de estancias y difusión de información de interés para el estudiante."
+  stand: S/A
+  height1: 30px
+  height: 60px
+  heightStand: 50px
+  heightStyle: height:50px
+  column: 1
+  standId: ""
+
+- siteurl: "mailto:ingenierosgeologosunam@gmail.com"
+  logourl: "images/agrupaciones/seig_logo.png"
+  name: "SEIG"
+  logoCard: 50px
+  logoBanner: 30px
+  carreras: TODAS LAS CARRERAS
+  teaser: "Sociedad de Estudiantes de Ingeniería Geológica de la UNAM"
+  abstract: "Mesa directiva de Sociedad de Estudiantes de Ingeniería Geológica. Buscamos fortalecer los nexos con otras asociaciones estudiantiles de la facultad, con otras asociaciones relacionadas con las Ciencias de la Tierra,con la academia y con la industria privada para proveer a los estudiantes de Ingeniería Geológica de recursos y oportunidades que permitan mejorar su paso por la Facultad de Ingeniería."
+  stand: S/A
+  height1: 30px
+  height: 60px
+  heightStand: 50px
+  heightStyle: height:50px
+  column: 1
+  standId: ""
+
+- siteurl: "https://www.facebook.com/sodvi/"
+  logourl: "images/agrupaciones/sodvi_logo.png"
+  name: "SODVI"
+  logoCard: 50px
+  logoBanner: 30px
+  carreras: TODAS LAS CARRERAS
+  teaser: "Sociedad de desarrollo en Videojuegos"
+  abstract: "Grupo de estudiantes con pasión por el desarrollo de videojuegos, utilizan las distintas tecnologías existentes y abarcan las áreas de programación, diseño de juego y arte."
+  stand: S/A
+  height1: 30px
+  height: 60px
+  heightStand: 50px
+  heightStyle: height:50px
+  column: 1
+  standId: ""
+
+- siteurl: "mailto:soemafi@gmail.com"
+  logourl: "images/agrupaciones/soema_logo.png"
+  name: "SOEMA"
+  logoCard: 50px
+  logoBanner: 30px
+  carreras: TODAS LAS CARRERAS
+  teaser: "Sociedad de Energía y Medio Ambiente"
+  abstract: "Sociedad estudiantil multidisciplinaria de la Facultad de Ingeniería cuya misión es crear una comunidad interesada en la mejora medioambiental global a través de investigación, desarrollo de información y difusión de la misma, para crear una conciencia y cultura sustentable."
+  stand: S/A
+  height1: 30px
+  height: 60px
+  heightStand: 50px
+  heightStyle: height:50px
+  column: 1
+  standId: ""
+
+- siteurl: "mailto:somefi.fi@ingenieria.unam.edu"
+  logourl: "images/agrupaciones/somefi_logo.png"
+  name: "SOMEFI"
+  logoCard: 50px
+  logoBanner: 30px
+  carreras: TODAS LAS CARRERAS
+  teaser: "Sociedad de Mecatrónica de la Facultad de Ingeniería"
+  abstract: "Agrupación profesional y estudiantil cuyas funciones se centran tanto en el desarrollo y la divulgación de la Ingeniería Mecatrónica, como en fungir como concentrador de apoyos diversos a los alumnos de la carrera en la UNAM."
+  stand: S/A
+  height1: 30px
+  height: 60px
+  heightStand: 50px
+  heightStyle: height:50px
+  column: 1
+  standId: ""
+
+- siteurl: "https://www.instagram.com/sosbifiunam/"
+  logourl: "images/agrupaciones/sosbi_logo.png"
+  name: "SOSBI"
+  logoCard: 50px
+  logoBanner: 30px
+  carreras: TODAS LAS CARRERAS
+  teaser: "Sociedad de Alumnos de Sistemas Biomédicos"
+  abstract: "La Sociedad de alumnos de Sistemas Biomédicos se establece como una agrupación multidisciplinaria cuya finalidad es promover y mantener vínculos entre el alumnado, el personal académico e instituciones del mundo laboral con el propósito de responder a las necesidades tecnológicas de la sociedad en el área biomédica."
+  stand: S/A
+  height1: 30px
+  height: 60px
+  heightStand: 50px
+  heightStyle: height:50px
+  column: 1
+  standId: ""
+
+- siteurl: "https://www.facebook.com/UNAMSPESC/"
+  logourl: "images/agrupaciones/spe_logo.png"
+  name: "UNAM SPE SC"
+  logoCard: 50px
+  logoBanner: 30px
+  carreras: TODAS LAS CARRERAS
+  teaser: "Capítulo Estudiantil de la Society of Petroleum Engineers"
+  abstract: "Somos la más grande organización de miembros que sirve a ingenieros, gerentes, científicos y otros profesionales de todo el mundo en el ámbito de la industria del petróleo y gas. Ofrece una oportunidad única para contribuir a la profesión a través de programas y actividades; y muchos de los logros son impulsados por los miembros dedicados."
+  stand: S/A
+  height1: 30px
+  height: 60px
+  heightStand: 50px
+  heightStyle: height:50px
+  column: 1
+  standId: ""
+
+- siteurl: "https://www.facebook.com/Tuna-Facultad-de-Ingenier%C3%ADa-UNAM-1626477977633337/"
+  logourl: "images/agrupaciones/tuna_logo.png"
+  name: "Tuna Universitaria"
+  logoCard: 50px
+  logoBanner: 30px
+  carreras: TODAS LAS CARRERAS
+  teaser: "Tuna de la Facultad de Ingeniería de la UNAM"
+  abstract: "Agrupación de estudiantes universitarios y ex-alumnos que representan a la Facultuad de Ingeniería y a la UNAM a través de la música en todo México y en el extranjero."
+  stand: S/A
+  height1: 30px
+  height: 60px
+  heightStand: 50px
+  heightStyle: height:50px
+  column: 1
+  standId: ""
+
+- siteurl: "unam.fi.hpv@gmail.com"
+  logourl: "images/agrupaciones/generic_logo.png"
+  name: "Velomóvil RS"
+  logoCard: 50px
+  logoBanner: 30px
+  carreras: TODAS LAS CARRERAS
+  teaser: "Velomóvil RS"
+  abstract: "Fomentamos la formación integral de los estudiantes de la UNAM al diseñar un vehículo propulsado por fuerza humana que participe en la competencia Human Powered Vehicle Challenge (HPVC) que organiza la American Society of Mechanical Engineers (ASME)"
+  stand: S/A
+  height1: 30px
+  height: 60px
+  heightStand: 50px
+  heightStyle: height:50px
+  column: 1
+  standId: ""
+
+- siteurl: "https://www.facebook.com/UNAM.SIAFI"
+  logourl: "images/agrupaciones/siafi_logo.png"
+  name: "SIA-FI"
+  logoCard: 30px
+  logoBanner: SMALL
+  carreras: TODAS LAS CARRERAS
+  teaser: "Sociedad de Inteligencia Artificial de la Facultad de Ingeniería"
+  abstract: "En SIAFI buscamos promover el estudio, difusión y aplicación de la Inteligencia Artificial en problemas multidisciplinarios representando a la UNAM al participar en competencias nacionales e internacionales, impartiendo cursos y talleres, y sobre todo capacitando a los universitarios en lo referente a la IA."
   stand: S/A
   height1: 30px
   height: 60px
